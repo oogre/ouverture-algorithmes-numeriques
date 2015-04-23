@@ -46,11 +46,13 @@
 	Cela dans le but que chacun puisse librement avancer dans ses connaissances. 
 	Que chacun puisse évoluer dans le monde en mutation permanente. 
 	Que chacun puisse communiquer/montrer la pertinence de ses intuitions.
+	
+	<h4>En pratique</h4>
 	La collaboration au seins de cet apprentissage est central. 
 	Chacun devra apporter au groupe sa vision, ses mots. 
 
 	Ce cours demande à chaque étudiant, de documenter ses découvertes en ligne, au travers d'un blog, d'un forum, d'une chaine YouTube, ... 
-	L'important ici, est que chacun puisse proposer ses mots, ses concepts. En classe, nous démarerrons toujours de là. 
+	L'important ici, est que chacun puisse proposer ses mots, ses concepts. En classe, nous démarerrons toujours de là.
 
 	Chacun, nous constituerons par ce biais un bestiaire, une collection d'anatomie, 
 	mettant en relation sa pratique et des organes de logique extraient de leur milieu algorithmique.
