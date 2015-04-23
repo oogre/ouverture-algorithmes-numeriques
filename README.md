@@ -24,7 +24,7 @@
 	Cette classe est là pour sensibiliser les étudiants à cette programmation numérique.
 	<ul>
 		<li>Nous ouvrirons les interfaces web, les installations interactives, les nouvelles forme du livre, le design génératif.</li>
-		<li>Nous explererons le potentiel non linéaire du code pour son impacte sur les nouveaux récits narratif.</li>
+		<li>Nous explorerons le potentiel non linéaire du code pour son impacte sur les nouveaux récits narratif.</li>
 		<li>Nous utiliserons les outils open source de création et d'exploration du code.</li>
 		<li>Nous disséquerons le paysage numérique, nous déplacerons, isolerons ces parties pour en observer​ le comportement.</li>
 		<li>Nous découvrirons des langages descriptifs tel que HTML/CSS. Nous verrons que ceux-ci sont très puissant pour décrire tous les objets et leur status à un moment donné.</li>
@@ -38,22 +38,28 @@
 		</li>
 	</ul>
 	<h4>Enjeux</h4>
-	Il n'est pas question ni de former des spécialistes, ni des codeurs. 
-	Le projet de ce cours est de faire fleurir le pratique de chaque étudiant à la lumière du code numérique.
-	Il n'est pas question d'enseigner un langage et les fondements de celui-ci. 
-	Le projet de ce cours est de montrer, d'ouvrir l'esprit de chaque étudiant à la logique de programmation.
-	
-	Cela dans le but que chacun puisse librement avancer dans ses connaissances. 
-	Que chacun puisse évoluer dans le monde en mutation permanente. 
-	Que chacun puisse communiquer/montrer la pertinence de ses intuitions.
-	
+	<p>
+		Il n'est pas question ni de former des spécialistes, ni des codeurs. 
+		Le projet de ce cours est de faire fleurir le pratique de chaque étudiant à la lumière du code numérique.
+		Il n'est pas question d'enseigner un langage et les fondements de celui-ci. 
+		Le projet de ce cours est de montrer, d'ouvrir l'esprit de chaque étudiant à la logique de programmation.
+	</p>
+	<p>
+		Cela dans le but que chacun puisse librement avancer dans ses connaissances. 
+		Que chacun puisse évoluer dans le monde en mutation permanente. 
+		Que chacun puisse communiquer/montrer la pertinence de ses intuitions.
+	</p>
 	<h4>En pratique</h4>
-	La collaboration au seins de cet apprentissage est central. 
-	Chacun devra apporter au groupe sa vision, ses mots. 
-
-	Ce cours demande à chaque étudiant, de documenter ses découvertes en ligne, au travers d'un blog, d'un forum, d'une chaine YouTube, ... 
-	L'important ici, est que chacun puisse proposer ses mots, ses concepts. En classe, nous démarerrons toujours de là.
-
-	Chacun, nous constituerons par ce biais un bestiaire, une collection d'anatomie, 
-	mettant en relation sa pratique et des organes de logique extraient de leur milieu algorithmique.
+	<p>
+		La collaboration au seins de cet apprentissage est central. 
+		Chacun devra apporter au groupe sa vision, ses mots. 
+	</p>
+	<p>
+		Ce cours demande à chaque étudiant, de documenter ses découvertes en ligne, au travers d'un blog, d'un forum, d'une chaine YouTube, ... 
+		L'important ici, est que chacun puisse proposer ses mots, ses concepts. En classe, nous démarerrons toujours de là.
+	</p>
+	<p>
+		Chacun, nous constituerons par ce biais un bestiaire, une collection d'anatomie, 
+		mettant en relation sa pratique et des organes de logique extraient de leur milieu algorithmique.
+	</p>
 </p>
