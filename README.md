@@ -1,4 +1,5 @@
-e algorithmes numériques
+Ouvertures des algorithmes numériques
+
 La programmation numérique, c'est la manipulation du code.
 Celui-ci est la force de la pensée contemporaine.
 Il est le constituant des algorithmes qui permettent d'ériger
