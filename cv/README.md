@@ -53,23 +53,41 @@
 	1997-2004 : Certificat d'étude secondaire suppérieur à l'Institut St Joseph Liège - Matématique et Sciences
 
 <h3>Expériences professionel:</h3>
-	2013 - 2015 : 
-		Assistant technique GRIZZLY PASS SCHEDULAR
-		Assistant technique GRIZZLY PASS REACTIVE TRASH VIDEO
-		Mobile app TAF - GESTION DU TRAVAIL POUR L'ATELIER DU FROID - Meteor
-
-	2011 - 2013 : 
-		Développeur d'interaction numérique - Getyoo
-			En charge de la recherche et développement de kiosks interactifs. C'est kiosks sont utilisés dans des événements comme le salon de l'auto à Bruxelles, à Wallibi, aux conférences TEDx, à la biénnale Intérieur Design, et d'autres. Les différentent interfaces utilisateur sont réalisées en JAVASCRIPT + HTML + CSS. J'ai développé un kiosk photobooth, un kiosk check-in/out, un kiosk d'enregistrement utilisateur, un kiosk de navigation multimédia, un kiosk de mini quizz.
-			Techniques : 
-				JAVASCRIPT, Async patern, Ajax, Jquery.js; Processing.js, Raphael.js, Canvas, Bootstrap.css, GPhoto2, FFserver, FFmpeg, RTP, HTTPS, NGINX, PHP, Coockie hacking, FacebookGRAPH, TwitterAPI,  YoutubeAPI, VimeoAPI, lecteur NFC/RFID, Arduino, JAVA
-
-		SideKick developer - Getyoo
-			Second sur la recherche et développement pour la formation du serveur Getyoo et de son application web. Cette application fonctionne sur le MVC Zend Framework. 
-			Techniques : 
-				PHP, MySQL/MariaDB, RestfulAPI, Javascript, JWplayer, JQuery, RTP, HTTPS, Apache2, FacebookGRAPH, TwitterAPI, Highcharts.js
-
-	2010 - 2013 : 
+<ul>
+	<li>2013 - 2015 : 
+		<ul>
+			<li>Assistant technique GRIZZLY PASS SCHEDULAR</li>
+			<li>Assistant technique GRIZZLY PASS REACTIVE TRASH VIDEO</li>
+			<li>Mobile app TAF - GESTION DU TRAVAIL POUR L'ATELIER DU FROID - Meteor</li>
+		</ul>
+	</li>
+	<li>2011 - 2013 : 
+		<ul>
+			<li>Développeur d'interaction numérique - Getyoo
+				<ul>
+					<li>
+						En charge de la recherche et développement de kiosks interactifs. C'est kiosks sont utilisés dans des événements comme le salon de l'auto à Bruxelles, à Wallibi, aux conférences TEDx, à la biénnale Intérieur Design, et d'autres. Les différentent interfaces utilisateur sont réalisées en JAVASCRIPT + HTML + CSS. J'ai développé un kiosk photobooth, un kiosk check-in/out, un kiosk d'enregistrement utilisateur, un kiosk de navigation multimédia, un kiosk de mini quizz.
+					</li>
+					<li>
+						Techniques : 
+							JAVASCRIPT, Async patern, Ajax, Jquery.js; Processing.js, Raphael.js, Canvas, Bootstrap.css, GPhoto2, FFserver, FFmpeg, RTP, HTTPS, NGINX, PHP, Coockie hacking, FacebookGRAPH, TwitterAPI,  YoutubeAPI, VimeoAPI, lecteur NFC/RFID, Arduino, JAVA
+						</li>
+					</ul>
+			</li>
+			<li>SideKick developer - Getyoo
+				<ul>
+					<li>
+						Second sur la recherche et développement pour la formation du serveur Getyoo et de son application web. Cette application fonctionne sur le MVC Zend Framework. 
+					</li>
+					<li>
+						Techniques : 
+							PHP, MySQL/MariaDB, RestfulAPI, Javascript, JWplayer, JQuery, RTP, HTTPS, Apache2, FacebookGRAPH, TwitterAPI, Highcharts.js
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li>2010 - 2013 : 
 		Assistant technique pour l'artiste Felix Luque
 			Développement Arduino pour la sculpture DWI-Modular
 			J'ai développé un protocole de communication pour piloter indépendament 240 rubans LED réparti sur 10 arduinos. Le but est de piloter de façons précise la modification de luminausité de chacun des rubans aussi bien de façon lente que très rapide.
@@ -95,7 +113,8 @@
 			Développement et performation d'instruments génératifs et interactifs. 
 			Techniques : 
 				Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5
-
+	</li>
+</ul>
 <h3>Expériences artistique:</h3>
 		Hacker et performeur vidéo pour le groupe Osica
 		Hacker et performeur vidéo pour le collectif VHS
