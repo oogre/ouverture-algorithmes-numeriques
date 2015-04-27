@@ -60,6 +60,11 @@
 <p>
 	<b>2013 - 2015 : </b>
 		<ul>
+			<li><h5>Animateur d'atelier Arts & Crafts - iMAL</h5>
+				<p>
+					<b>Techniques : </b><i>Processing, Arduino, PHP</i>
+				</p>
+			</li>
 			<li><h5>Assistant technique - GrizzlyLab</h5>
 				<p>
 					Développement et Desgin d'un tableau horaire interactif pour le PASS<br/>
