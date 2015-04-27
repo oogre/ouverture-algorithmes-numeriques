@@ -140,11 +140,6 @@
 <ul>
 	<li>
 		<p>
-			<b>la grande ouverture du robinet du fun : </b>Collaboration avec "nous somme quatre-vingt" Un évier robot raconte des blagues auto-dé-générée.
-		</p>
-	</li>
-	<li>
-		<p>
 			<b>bcksp.es : </b>Cette application archive tout le texte que ses utilisateurs suppriment online. Chaque utilisateur reçoit un livre révélant leurs pensées jamais assumées.
 		</p>
 	</li>
@@ -179,6 +174,11 @@
 	<li><h5>Transculture & La chambre blanche</h5>
 		<p>
 			<b>Lighthouse : </b>(En cours) Résidence entre le Canada et la Belgique, en collaboration avec Alice Jarry.
+		</p>
+	</li>
+	<li><h5>Balaise production</h5>
+		<p>
+			<b>la grande ouverture du robinet du fun : </b>Un évier robot raconte des blagues auto-dé-générée. Collaboration avec "nous sommes quatre-vingt". 
 		</p>
 	</li>
 	<li><h5>PIAS Nite</h5>
