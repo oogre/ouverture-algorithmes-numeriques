@@ -5,11 +5,11 @@
 </p>
 <h3>Contacts :</h3>
 <p>
-	<b>Adresse : </b>rue mandeville 23, BE-4000 Liège
-	<b>Téléphone : </b>+32 495.876.315
-	<b>Courriel : </b>vincent@ogre.be
-	<b>Site web : </b>http://ogre.be
-	<b>Twitter : </b>ogre_vince
+	<b>Adresse : </b>rue mandeville 23, BE-4000 Liège<br/>
+	<b>Téléphone : </b>+32 495.876.315<br/>
+	<b>Courriel : </b>vincent@ogre.be<br/>
+	<b>Site web : </b>http://ogre.be<br/>
+	<b>Twitter : </b>ogre_vince<br/>
 	<b>Github : </b>oogre
 </p>
 <h3>Compétences :</h3>
