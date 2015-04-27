@@ -70,7 +70,9 @@
 					</li>
 					<li>
 						Techniques : 
+						<p>
 							JAVASCRIPT, Async patern, Ajax, Jquery.js; Processing.js, Raphael.js, Canvas, Bootstrap.css, GPhoto2, FFserver, FFmpeg, RTP, HTTPS, NGINX, PHP, Coockie hacking, FacebookGRAPH, TwitterAPI,  YoutubeAPI, VimeoAPI, lecteur NFC/RFID, Arduino, JAVA
+						</p>
 						</li>
 					</ul>
 			</li>
@@ -88,31 +90,72 @@
 		</ul>
 	</li>
 	<li>2010 - 2013 : 
-		Assistant technique pour l'artiste Felix Luque
-			Développement Arduino pour la sculpture DWI-Modular
-			J'ai développé un protocole de communication pour piloter indépendament 240 rubans LED réparti sur 10 arduinos. Le but est de piloter de façons précise la modification de luminausité de chacun des rubans aussi bien de façon lente que très rapide.
-			Techniques : 
-				C++, Arduino UNO, PWM, XBee, TLC5940.h, avr/wdt.h
-
-			Développement Arduino pour la sculpture DWI-Chaos-Synth
-			J'ai développé une méthode d'écriture et de lecture d'une sorte de partition musical. Le but est de faire jouer X synthétiseurs au moyen de Y potentiomètres. Le programme fait tourner des moteurs pas à pas afin qu'ils atteignent la position requise par la partition. Le code devait être facilement modifiable par l'artiste pour modifier le nombre de synthétiseur et le nombre de potentiomètre par synthétiseur. La lecture
-			Techniques : 
-				C++, Arduino MEGA, PWM
-
-			Développement Arduino pour la sculpture Chapter-1-The-Discovery
-			J'ai optimisé le protocole de communication sans file
-			Techniques : 
-				C++, Arduino UNO, PWM, XBee, TLC5940.h
-
-		Codeur et performeur pour le collectif Killing Screen
-			Je jouais en live un programme fait maison de génération graphique abstraite.
-			Techniques : 
-				Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5
-
-		Codeur et performeur pour le collectif Union By Motion
-			Développement et performation d'instruments génératifs et interactifs. 
-			Techniques : 
-				Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5
+		<ul>
+			<li>Assistant technique pour l'artiste Felix Luque
+				<ul>
+					<li>
+						<p>
+							Développement Arduino pour la sculpture DWI-Modular
+						</p>
+						<p>
+							J'ai développé un protocole de communication pour piloter indépendament 240 rubans LED réparti sur 10 arduinos. Le but est de piloter de façons précise la modification de luminausité de chacun des rubans aussi bien de façon lente que très rapide.
+						</p>
+						Techniques : 
+						<p>
+							C++, Arduino UNO, PWM, XBee, TLC5940.h, avr/wdt.h
+						</p>
+					</li>
+					<li>
+						<p>
+							Développement Arduino pour la sculpture DWI-Chaos-Synth
+						</p>
+						<p>
+							J'ai développé une méthode d'écriture et de lecture d'une sorte de partition musical. Le but est de faire jouer X synthétiseurs au moyen de Y potentiomètres. Le programme fait tourner des moteurs pas à pas afin qu'ils atteignent la position requise par la partition. Le code devait être facilement modifiable par l'artiste pour modifier le nombre de synthétiseur et le nombre de potentiomètre par synthétiseur. La lecture
+						</p>
+						Techniques : 
+						<p>
+							C++, Arduino MEGA, PWM
+						</p>
+					</li>
+					<li>
+						<p>
+							Développement Arduino pour la sculpture Chapter-1-The-Discovery
+						</p>
+						<p>
+							J'ai optimisé le protocole de communication sans file
+						</p>
+						Techniques : 
+						<p>
+							C++, Arduino UNO, PWM, XBee, TLC5940.h
+						</p>
+					</li>
+					<li>
+						<p>
+							Codeur et performeur pour le collectif Killing Screen
+						</p>
+						<p>
+							Je jouais en live un programme fait maison de génération graphique abstraite.
+						</p>
+						Techniques : 
+						<p>
+							Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5
+						</p>
+					</li>
+					<li>
+						<p>
+							Codeur et performeur pour le collectif Union By Motion
+						</p>
+						<p>
+							Développement et performation d'instruments génératifs et interactifs. 
+						</p>
+						Techniques : 
+						<p>
+							Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5
+						</p>
+					</li>
+				</ul>
+			</li>
+		</ul>
 	</li>
 </ul>
 <h3>Expériences artistique:</h3>
