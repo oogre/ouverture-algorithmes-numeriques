@@ -71,25 +71,11 @@
 					<li>
 						Techniques : 
 						<ul>
-							<li>JAVASCRIPT</li>
-							<li>Async patern</li>
-							<li>Ajax</li>
-							<li>Jquery.js; Processing.js</li>
-							<li>Raphael.js</li>
-							<li>Canvas</li>
-							<li>Bootstrap.css</li>
-							<li>GPhoto2</li>
-							<li>FFserver</li>
-							<li>FFmpeg</li>
-							<li>RTP</li>
-							<li>HTTPS</li>
-							<li>NGINX</li>
 							<li>PHP</li>
-							<li>Coockie hacking</li>
-							<li>FacebookGRAPH</li>
-							<li>TwitterAPI</li>
-							<li> YoutubeAPI</li>
-							<li>VimeoAPI</li>
+							<li>JAVASCRIPT : Async patern, Ajax, Jquery.js, Processing.js, Raphael.js, Canvas</li>
+							<li>CSS : Bootstrap.css</li>
+							<li>Nginx, GPhoto2, FFserver, FFmpeg, RTP, HTTPS</li>
+							<li>FacebookGRAPH, TwitterAPI, YoutubeAPI, VimeoAPI</li>
 							<li>lecteur NFC/RFID</li>
 							<li>Arduino</li>
 							<li>JAVA</li>
