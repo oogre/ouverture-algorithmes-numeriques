@@ -72,17 +72,7 @@
 						En charge de la recherche et développement de kiosks interactifs. C'est kiosks sont utilisés dans des événements comme le salon de l'auto à Bruxelles, à Wallibi, aux conférences TEDx, à la biénnale Intérieur Design, et d'autres. Les différentent interfaces utilisateur sont réalisées en JAVASCRIPT + HTML + CSS. J'ai développé un kiosk photobooth, un kiosk check-in/out, un kiosk d'enregistrement utilisateur, un kiosk de navigation multimédia, un kiosk de mini quizz.
 					</li>
 					<li>
-						Techniques : 
-						<ul>
-							<li>Javascript : Async patern, Ajax, Jquery.js, Processing.js, Raphael.js, Canvas</li>
-							<li>API : FacebookGRAPH, TwitterAPI, YoutubeAPI, VimeoAPI</li>
-							<li>CSS : Bootstrap.css</li>
-							<li>PHP</li>
-							<li>Nginx, GPhoto2, FFserver, FFmpeg, RTP, HTTPS</li>
-							<li>NFC/RFID</li>
-							<li>Arduino</li>
-							<li>Java</li>
-						</ul>
+						Techniques : <i>Javascript, Async patern, Ajax, Jquery.js, Processing.js, Raphael.js, Canvas, FacebookGRAPH, TwitterAPI, YoutubeAPI, VimeoAPI, Bootstrap.css, PHP, Nginx, GPhoto2, FFserver, FFmpeg, RTP, HTTPS, NFC/RFID, Arduino, Java</i>
 					</li>
 				</ul>
 			</li>
