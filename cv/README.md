@@ -28,11 +28,11 @@
 		Première
 		Final Cut
 
-Langues : 
+<h3>Langues :</h3>
 	Français : Langue maternelle
 	Anglais : I've good abilities to argue any discussion
 
-Etudes : 
+<h3>Etudes :</h3>
 	2008 - 2010 : Master à l'ERG, Bruxelles - Art numérique et typographie
 		Mémoire : 
 			Fixer les nuages - C'est un manifeste qui cultive la vrais définition d'Internet. 
@@ -44,7 +44,7 @@ Etudes :
 	2004-2005 : Baccalauréat à l'HELMo Gramme, Liège - Ingénieur industriel
 	1997-2004 : Certificat d'étude secondaire suppérieur à l'Institut St Joseph Liège - Matématique et Sciences
 
-Expériences : 
+<h3>Expériences :</h3>
 	2011 - 2013 : 
 		Développeur d'interaction numérique - Getyoo
 			En charge de la recherche et développement de kiosks interactifs. C'est kiosks sont utilisés dans des événements comme le salon de l'auto à Bruxelles, à Wallibi, aux conférences TEDx, à la biénnale Intérieur Design, et d'autres. Les différentent interfaces utilisateur sont réalisées en JAVASCRIPT + HTML + CSS. J'ai développé un kiosk photobooth, un kiosk check-in/out, un kiosk d'enregistrement utilisateur, un kiosk de navigation multimédia, un kiosk de mini quizz.
