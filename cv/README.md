@@ -1,6 +1,6 @@
 <h3>Identité :</h3>
 <p>
-	Nom - Prénom : Evrard Vincent
+	Nom - Prénom : Evrard Vincent<br/>
 	Date de naissance : 14/09/1985
 </p>
 <h3>Contacts :</h3>
