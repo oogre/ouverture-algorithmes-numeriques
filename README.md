@@ -41,7 +41,7 @@
 	<p>
 		Il n'est pas question ni de former des spécialistes, ni des codeurs. 
 		Le projet de ce cours est de faire fleurir le pratique de chaque étudiant à la lumière du code numérique.
-		Il n'est pas question d'enseigner un langage et les fondements de celui-ci. 
+		Il n'est pas question d'enseigner une langage et les fondements de celui-ci. 
 		Le projet de ce cours est de montrer, d'ouvrir l'esprit de chaque étudiant à la logique de programmation.
 	</p>
 	<p>

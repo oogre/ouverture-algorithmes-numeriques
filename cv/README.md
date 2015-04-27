@@ -1,32 +1,32 @@
-Identité : 
-	Nom - Prénom : Evrard Vincent
-	Date de naissance : 14/09/1985
-
-Contacts : 
-	Adresse : rue mandeville 23, BE-4000 Liège
-	Téléphone : +32 495.876.315
-	Courriel : vincent@ogre.be
-	Site web : http://ogre.be
-	Twitter : ogre_vince
-	Github : oogre
-
-Compétences : 
-	Codes : 
-		Javascript : client & serveur
-		PHP : MVC Zend Framework
-		JAVA : Processing
-		C++ : Arduino
-		SQL : MariaDB
-		noSQL : MongoDB
-		HTML5
-		CSS3 : Bootstrap, Pure.css
-		GIT
-	Visuel : 
-		Illustrator
-		Photoshop
-		inDesign
-		Première
-		Final Cut
+<h3>Identité :</h3>
+	<b>Nom - Prénom :</b> Evrard Vincent <br/>
+	<b>Date de naissance :</b> 14/09/1985 <br/>
+ <br/>
+<h3>Contacts :</h3>
+	Adresse : rue mandeville 23, BE-4000 Liège<br/>
+	Téléphone : +32 495.876.315<br/>
+	Courriel : vincent@ogre.be<br/>
+	Site web : http://ogre.be<br/>
+	Twitter : ogre_vince<br/>
+	Github : oogre<br/>
+<br/>
+<h3>Compétences :</h3>
+	Codes : <br/>
+		Javascript : client & serveur<br/>
+		PHP : MVC Zend Framework<br/>
+		JAVA : Processing<br/>
+		C++ : Arduino<br/>
+		SQL : MariaDB<br/>
+		noSQL : MongoDB<br/>
+		HTML5<br/>
+		CSS3 : Bootstrap, Pure.css<br/>
+		GIT<br/>
+	Visuel : <br/>
+		Illustrator<br/>
+		Photoshop<br/>
+		inDesign<br/>
+		Première<br/>
+		Final Cut<br/>
 
 Langues : 
 	Français : Langue maternelle
