@@ -72,77 +72,44 @@
 					<b>Techniques : </b><i>Javascript, Async patern, Ajax, Jquery.js, Processing.js, Raphael.js, Canvas, FacebookGRAPH, TwitterAPI, YoutubeAPI, VimeoAPI, Bootstrap.css, PHP, Nginx, GPhoto2, FFserver, FFmpeg, RTP, HTTPS, NFC/RFID, Arduino, Java</i>
 				</p>
 			</li>
-			<li>SideKick developer - Getyoo<br/>
-				<b>Description : </b>Second sur la recherche et développement pour la formation du serveur Getyoo et de son application web. Cette application fonctionne sur le MVC Zend Framework. <br/>
-				<b>Techniques : </b><i>PHP, MySQL/MariaDB, RestfulAPI, Javascript, JWplayer, JQuery, RTP, HTTPS, Apache2, FacebookGRAPH, TwitterAPI, Highcharts.js</i>
+			<li><h5>SideKick developer - Getyoo</h5>
+				<p>
+					<b>Description : </b>Second sur la recherche et développement pour la formation du serveur Getyoo et de son application web. Cette application fonctionne sur le MVC Zend Framework. <br/>
+					<b>Techniques : </b><i>PHP, MySQL/MariaDB, RestfulAPI, Javascript, JWplayer, JQuery, RTP, HTTPS, Apache2, FacebookGRAPH, TwitterAPI, Highcharts.js</i>
+				</p>
 			</li>
 		</ul>
 	
 	<b>2010 - 2013 : </b>
 		<ul>
-			<li>Assistant technique pour l'artiste Felix Luque
-				<ul>
-					<li>
-						<p>
-							Développement Arduino pour la sculpture DWI-Modular
-						</p>
-						<p>
-							J'ai développé un protocole de communication pour piloter indépendament 240 rubans LED réparti sur 10 arduinos. Le but est de piloter de façons précise la modification de luminausité de chacun des rubans aussi bien de façon lente que très rapide.
-						</p>
-						Techniques : 
-						<p>
-							C++, Arduino UNO, PWM, XBee, TLC5940.h, avr/wdt.h
-						</p>
-					</li>
-					<li>
-						<p>
-							Développement Arduino pour la sculpture DWI-Chaos-Synth
-						</p>
-						<p>
-							J'ai développé une méthode d'écriture et de lecture d'une sorte de partition musical. Le but est de faire jouer X synthétiseurs au moyen de Y potentiomètres. Le programme fait tourner des moteurs pas à pas afin qu'ils atteignent la position requise par la partition. Le code devait être facilement modifiable par l'artiste pour modifier le nombre de synthétiseur et le nombre de potentiomètre par synthétiseur. La lecture
-						</p>
-						Techniques : 
-						<p>
-							C++, Arduino MEGA, PWM
-						</p>
-					</li>
-					<li>
-						<p>
-							Développement Arduino pour la sculpture Chapter-1-The-Discovery
-						</p>
-						<p>
-							J'ai optimisé le protocole de communication sans file
-						</p>
-						Techniques : 
-						<p>
-							C++, Arduino UNO, PWM, XBee, TLC5940.h
-						</p>
-					</li>
-					<li>
-						<p>
-							Codeur et performeur pour le collectif Killing Screen
-						</p>
-						<p>
-							Je jouais en live un programme fait maison de génération graphique abstraite.
-						</p>
-						Techniques : 
-						<p>
-							Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5
-						</p>
-					</li>
-					<li>
-						<p>
-							Codeur et performeur pour le collectif Union By Motion
-						</p>
-						<p>
-							Développement et performation d'instruments génératifs et interactifs. 
-						</p>
-						Techniques : 
-						<p>
-							Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5
-						</p>
-					</li>
-				</ul>
+			<li><h5>Assistant technique pour l'artiste Felix Luque</h5>
+				<p>
+					Développement Arduino pour la sculpture DWI-Modular<br/>
+					<b>Description : </b>J'ai développé un protocole de communication pour piloter indépendament 240 rubans LED réparti sur 10 arduinos. Le but est de piloter de façons précise la modification de luminausité de chacun des rubans aussi bien de façon lente que très rapide.<br/>
+					<b>Techniques : </b><i>C++, Arduino UNO, PWM, XBee, TLC5940.h, avr/wdt.h</i>
+				</p>
+				<p>
+					Développement Arduino pour la sculpture DWI-Chaos-Synth<br/>
+					<b>Description : </b>J'ai développé une méthode d'écriture et de lecture d'une sorte de partition musical. Le but est de faire jouer X synthétiseurs au moyen de Y potentiomètres. Le programme fait tourner des moteurs pas à pas afin qu'ils atteignent la position requise par la partition. Le code devait être facilement modifiable par l'artiste pour modifier le nombre de synthétiseur et le nombre de potentiomètre par synthétiseur.<br/>
+					<b>Techniques : </b><i>C++, Arduino MEGA, PWM</i>
+				</p>
+				<p>
+					Développement Arduino pour la sculpture Chapter-1-The-Discovery<br/>
+					<b>Description : </b>J'ai optimisé le protocole de communication sans file<br/>
+					<b>Techniques : </b><i>C++, Arduino UNO, PWM, XBee, TLC5940.h</i>
+				</p>
+			</li>
+			<li><h5>Codeur et performeur pour le collectif Killing Screen</h5>
+				<p>
+					<b>Description : </b>Je jouais en live un programme fait maison de génération graphique abstraite.<br/>
+					<b>Techniques : </b><i>Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5</i>
+				</p>
+			</li>
+			<li><h5>Codeur et performeur pour le collectif Union By Motion</h5>
+				<p>
+					<b>Description : </b>Je m'occupait du développement et de la performation d'instruments génératifs et interactifs. <br/>
+					<b>Techniques : </b><i>Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5</i>
+				</p>
 			</li>
 		</ul>
 </p>
