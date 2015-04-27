@@ -43,7 +43,7 @@
 	<b>Français : </b>Langue maternelle<br/>
 	<b>Anglais : </b>I've good abilities to argue any discussion
 </p>
-<h3>Etudes :</h3>
+<h3>Etudes</h3>
 <p>
 	<b>2008 - 2010 : </b>Master à l'ERG, Bruxelles - Art numérique et typographie<br/>
 		Mémoire : 
@@ -60,9 +60,22 @@
 <p>
 	<b>2013 - 2015 : </b>
 		<ul>
-			<li>Assistant technique GRIZZLY PASS SCHEDULAR</li>
-			<li>Assistant technique GRIZZLY PASS REACTIVE TRASH VIDEO</li>
-			<li>Mobile app TAF - GESTION DU TRAVAIL POUR L'ATELIER DU FROID - Meteor</li>
+			<li><h5>Assistant technique - GrizzlyLab</h5>
+				<p>
+					Développement et Desgin d'un tableau horaire interactif pour le PASS<br/>
+					<b>Techniques : </b><i>HTML/CSS, javascript, bootstrap, ...</i>
+				</p>
+				<p>
+					Développement (logiciel et matériel) d'un système interactif de déclenchement de lecture vidéo<br/>
+					<b>Techniques : </b><i>Arduino, Ultrasonic sensors, Serial, ...</i>
+				</p>
+			</li>
+			<li><h5>Développeur - Atelier du Froid</h5>
+				<p>
+					<b>Description : </b>Application mobile de gestion du travail en entreprise.<br/>
+					<b>Techniques : </b><i>Meteor, Android</i>
+				</p>
+			</li>
 		</ul>
 	<b>2011 - 2013 : </b>
 		<ul>
@@ -176,7 +189,7 @@
 			<b>Reactive devices : </b>Collaboration avec Getyoo, transformation d'objet comme un canon à confetti, des flashs en jeux interactif avec des lecteur RFID
 		</p>
 		<p>
-			<b>NintendOldFurniture :</b>Collaboration avec Osica pour transformer un meuble radio vintage en mannette géante de la célèbre NES.
+			<b>NintendOldFurniture : </b>Collaboration avec Osica pour transformer un meuble radio vintage en mannette géante de la célèbre NES.
 		</p>
 		<p>
 			<b>A Giant LowRes screen : </b>Développement et réalisation d'un écran géant sur les fenêtres de chez iMAL. Tout type de contenus multimedia devait passer au travers de 6x3 spots DMX.
