@@ -162,16 +162,24 @@
 	</li>
 </ul>
 <h3>Invitations artistique</h3>
-			Transculture & La chambre blanche : 
-				Lighthouse : 
-					(En cours) Résidence entre le Canada et la Belgique, en collaboration avec Alice Jarry.
-			PIAS Nite : 
-				Carpet : 
-					Réalisation d'un tapis au graphisme autogénéraif influencé par le mouvement des gens. 
-				Reactive devices : 
-					Collaboration avec Getyoo, transformation d'objet comme un canon à confetti, des flashs en jeux interactif avec des lecteur RFID
-				NintendOldFurniture :
-					Collaboration avec Osica pour transformer un meuble radio vintage en mannette géante de la célèbre NES.
-				A Giant LowRes screen : 
-					Développement et réalisation d'un écran géant sur les fenêtres de chez iMAL. Tout type de contenus multimedia devait passer au travers de 6x3 spots DMX.
+<ul>
+	<li><h5>Transculture & La chambre blanche</h5>
+		<p>
+			<b>Lighthouse : </b>(En cours) Résidence entre le Canada et la Belgique, en collaboration avec Alice Jarry.
+		</p>
+	</li>
+	<li><h5>PIAS Nite</h5>
+		<p>
+			<b>Carpet : </b>Réalisation d'un tapis au graphisme autogénéraif influencé par le mouvement des gens. 
+		</p>
+		<p>
+			<b>Reactive devices : </b>Collaboration avec Getyoo, transformation d'objet comme un canon à confetti, des flashs en jeux interactif avec des lecteur RFID
+		</p>
+		<p>
+			<b>NintendOldFurniture :</b>Collaboration avec Osica pour transformer un meuble radio vintage en mannette géante de la célèbre NES.
+		</p>
+		<p>
+			<b>A Giant LowRes screen : </b>Développement et réalisation d'un écran géant sur les fenêtres de chez iMAL. Tout type de contenus multimedia devait passer au travers de 6x3 spots DMX.
+		</p>
+	</li>
 </p>
