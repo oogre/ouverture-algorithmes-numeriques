@@ -71,14 +71,14 @@
 					<li>
 						Techniques : 
 						<ul>
-							<li>PHP</li>
-							<li>JAVASCRIPT : Async patern, Ajax, Jquery.js, Processing.js, Raphael.js, Canvas</li>
+							<li>Javascript : Async patern, Ajax, Jquery.js, Processing.js, Raphael.js, Canvas</li>
+							<li>API : FacebookGRAPH, TwitterAPI, YoutubeAPI, VimeoAPI</li>
 							<li>CSS : Bootstrap.css</li>
+							<li>PHP</li>
 							<li>Nginx, GPhoto2, FFserver, FFmpeg, RTP, HTTPS</li>
-							<li>FacebookGRAPH, TwitterAPI, YoutubeAPI, VimeoAPI</li>
-							<li>lecteur NFC/RFID</li>
+							<li>NFC/RFID</li>
 							<li>Arduino</li>
-							<li>JAVA</li>
+							<li>Java</li>
 						</ul>
 					</li>
 				</ul>
