@@ -125,39 +125,39 @@
 </p>
 <h3>Réalisations artistique</h3>
 <ul>
-	<li><h5>la grande ouverture du robinet du fun</h5>
+	<li>
 		<p>
-			<b>Description : </b>Collaboration avec "nous somme quatre-vingt" Un évier robot raconte des blagues auto-dé-générée.
+			<b>la grande ouverture du robinet du fun : </b>Collaboration avec "nous somme quatre-vingt" Un évier robot raconte des blagues auto-dé-générée.
 		</p>
 	</li>
-	<li><h5>bcksp.es</h5>
+	<li>
 		<p>
-			<b>Description : </b>Cette application archive tout le texte que ses utilisateurs suppriment online. Chaque utilisateur reçoit un livre révélant leurs pensées jamais assumées.
+			<b>bcksp.es : </b>Cette application archive tout le texte que ses utilisateurs suppriment online. Chaque utilisateur reçoit un livre révélant leurs pensées jamais assumées.
 		</p>
 	</li>
-	<li><h5>Regard</h5>
+	<li>
 		<p>
-			<b>Description : </b>Deux grandes colonnes mirroirs se font face. Chacune refletant l'autre naturellement et numériquement.
+			<b>Regard : </b>Deux grandes colonnes mirroirs se font face. Chacune refletant l'autre naturellement et numériquement.
 		</p>
 	</li>
-	<li><h5>Aphrogenea</h5>
+	<li>
 		<p>
-			<b>Description : </b>Cette sculpture est composée d'un aquarium rempli d'huile dans lequel repose un écran d'ordinateur. L'écran affiche une bulle numérique qui deviendra une vrais bulle d'air.
+			<b>Aphrogenea : </b>Cette sculpture est composée d'un aquarium rempli d'huile dans lequel repose un écran d'ordinateur. L'écran affiche une bulle numérique qui deviendra une vrais bulle d'air.
 		</p>
 	</li>
-	<li><h5>datawallet.net</h5>
+	<li>
 		<p>
-			<b>Description : </b>Une place de marché online, sur laquel chacun peut vendre ses données privées.
+			<b>datawallet.net : </b>Une place de marché online, sur laquel chacun peut vendre ses données privées.
 		</p>
 	</li>
-	<li><h5>Cube</h5>
+	<li>
 		<p>
-			<b>Description : </b>C'est une sculpture qui arpente l'espace du sol et capture des instantanés photographique de son environnement. 
+			<b>Cube : </b>C'est une sculpture qui arpente l'espace du sol et capture des instantanés photographique de son environnement. 
 		</p>
 	</li>
-	<li><h5>Influenza/Twitter</h5>
+	<li>
 		<p>
-			<b>Description : </b>Le virus de la grippe et Twitter répondent aux même phénomène, ce livre augmenté vous le montrera.
+			<b>Influenza/Twitter : </b>Le virus de la grippe et Twitter répondent aux même phénomène, ce livre augmenté vous le montrera.
 		</p>
 	</li>
 </ul>
