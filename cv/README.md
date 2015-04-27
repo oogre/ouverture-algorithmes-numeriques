@@ -178,7 +178,7 @@
 	</li>
 	<li><h5>Balaise production</h5>
 		<p>
-			<b>la grande ouverture du robinet du fun : </b>Un évier robot raconte des blagues auto-dé-générée. Collaboration avec "nous sommes quatre-vingt". 
+			<b>La grande ouverture du robinet du fun : </b>Un évier robot raconte des blagues auto-dé-générée. Collaboration avec "nous sommes quatre-vingt". 
 		</p>
 	</li>
 	<li><h5>PIAS Nite</h5>
@@ -191,8 +191,10 @@
 		<p>
 			<b>NintendOldFurniture : </b>Collaboration avec Osica pour transformer un meuble radio vintage en mannette géante de la célèbre NES.
 		</p>
+	</li>
+	<li><h5>iMAL</h5>
 		<p>
-			<b>A Giant LowRes screen : </b>Développement et réalisation d'un écran géant sur les fenêtres de chez iMAL. Tout type de contenus multimedia devait passer au travers de 6x3 spots DMX.
+			<b>A Giant LowRes screen : </b>Développement et réalisation d'un écran géant au travers des fenêtres du bâptiment de iMAL. Tout type de contenus multimedia devait passer au travers de 6x3 spots DMX.
 		</p>
 	</li>
 </p>
