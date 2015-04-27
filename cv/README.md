@@ -1,15 +1,17 @@
 <h3>Identité :</h3>
+<p>
 	Nom - Prénom : Evrard Vincent
 	Date de naissance : 14/09/1985
-
+</p>
 <h3>Contacts :</h3>
+<p>
 	Adresse : rue mandeville 23, BE-4000 Liège
 	Téléphone : +32 495.876.315
 	Courriel : vincent@ogre.be
 	Site web : http://ogre.be
 	Twitter : ogre_vince
 	Github : oogre
-
+</p>
 <h3>Compétences :</h3>
 <ul>
 	<li>Codes :
