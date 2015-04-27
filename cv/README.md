@@ -49,7 +49,7 @@
 		Mémoire : 
 			Fixer les nuages - C'est un manifeste qui cultive la vrais définition d'Internet. 
 			Le meilleur représentant graphique d'Internet est le nuage. Donc Fixer les nuages
-			est un voyage dans l'Histoire de la relation entre les nuages et les Humains.
+			est un voyage dans l'Histoire de la relation entre les nuages et les Humains.<br/>
 	
 	<b>2005-2008 : </b>Baccalauréat à l'ESA St Luc, Liège - Graphisme et typographie<br/>
 	
@@ -57,15 +57,14 @@
 	<b>1997-2004 : </b>Certificat d'étude secondaire suppérieur à l'Institut St Joseph Liège - Matématique et Sciences
 </p>
 <h3>Expériences professionel:</h3>
-<ul>
-	<li>2013 - 2015 : 
+<p>
+	<b>2013 - 2015 : </b>
 		<ul>
 			<li>Assistant technique GRIZZLY PASS SCHEDULAR</li>
 			<li>Assistant technique GRIZZLY PASS REACTIVE TRASH VIDEO</li>
 			<li>Mobile app TAF - GESTION DU TRAVAIL POUR L'ATELIER DU FROID - Meteor</li>
 		</ul>
-	</li>
-	<li>2011 - 2013 : 
+	<b>2011 - 2013 : </b>
 		<ul>
 			<li>Développeur d'interaction numérique - Getyoo
 				<ul>
@@ -99,8 +98,8 @@
 				</ul>
 			</li>
 		</ul>
-	</li>
-	<li>2010 - 2013 : 
+	
+	<b>2010 - 2013 : </b>
 		<ul>
 			<li>Assistant technique pour l'artiste Felix Luque
 				<ul>
@@ -167,8 +166,7 @@
 				</ul>
 			</li>
 		</ul>
-	</li>
-</ul>
+</p>
 <h3>Expériences artistique:</h3>
 		Hacker et performeur vidéo pour le groupe Osica
 		Hacker et performeur vidéo pour le collectif VHS
