@@ -11,22 +11,30 @@
 	Github : oogre
 
 <h3>Compétences :</h3>
-	Codes :
-		Javascript : client & serveur
-		PHP : MVC Zend Framework
-		JAVA : Processing
-		C++ : Arduino
-		SQL : MariaDB
-		noSQL : MongoDB
-		HTML5
-		CSS3 : Bootstrap, Pure.css
-		GIT
-	Visuel :
-		Illustrator
-		Photoshop
-		inDesign
-		Première
-		Final Cut
+<ul>
+	<li>Codes :
+		<ul>
+			<li>Javascript : client & serveur</li>
+			<li>PHP : MVC Zend Framework</li>
+			<li>JAVA : Processing</li>
+			<li>C++ : Arduino</li>
+			<li>SQL : MariaDB</li>
+			<li>noSQL : MongoDB</li>
+			<li>HTML5</li>
+			<li>CSS3 : Bootstrap, Pure.css</li>
+			<li>GIT</li>
+		</ul>
+	</li>
+	<li>Visuel :
+		<ul>
+			<li>Illustrator</li>
+			<li>Photoshop</li>
+			<li>inDesign</li>
+			<li>Première</li>
+			<li>Final Cut</li>
+		</ul>
+	</li>
+</ul>
 
 <h3>Langues :</h3>
 	Français : Langue maternelle
@@ -44,7 +52,12 @@
 	2004-2005 : Baccalauréat à l'HELMo Gramme, Liège - Ingénieur industriel
 	1997-2004 : Certificat d'étude secondaire suppérieur à l'Institut St Joseph Liège - Matématique et Sciences
 
-<h3>Expériences :</h3>
+<h3>Expériences professionel:</h3>
+	2013 - 2015 : 
+		Assistant technique GRIZZLY PASS SCHEDULAR
+		Assistant technique GRIZZLY PASS REACTIVE TRASH VIDEO
+		Mobile app TAF - GESTION DU TRAVAIL POUR L'ATELIER DU FROID - Meteor
+
 	2011 - 2013 : 
 		Développeur d'interaction numérique - Getyoo
 			En charge de la recherche et développement de kiosks interactifs. C'est kiosks sont utilisés dans des événements comme le salon de l'auto à Bruxelles, à Wallibi, aux conférences TEDx, à la biénnale Intérieur Design, et d'autres. Les différentent interfaces utilisateur sont réalisées en JAVASCRIPT + HTML + CSS. J'ai développé un kiosk photobooth, un kiosk check-in/out, un kiosk d'enregistrement utilisateur, un kiosk de navigation multimédia, un kiosk de mini quizz.
@@ -82,14 +95,8 @@
 			Développement et performation d'instruments génératifs et interactifs. 
 			Techniques : 
 				Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5
-	2013 - 2015 : 
-		Assistant technique GRIZZLY PASS SCHEDULAR
-		Assistant technique GRIZZLY PASS REACTIVE TRASH VIDEO
-		Mobile app TAF - GESTION DU TRAVAIL POUR L'ATELIER DU FROID - Meteor
 
-
-
-	2010 - 2015 :
+<h3>Expériences artistique:</h3>
 		Hacker et performeur vidéo pour le groupe Osica
 		Hacker et performeur vidéo pour le collectif VHS
 			Je joue en live avec des consoles d'effets vidéo vintage, et des synthétiseurs vidéo. J'improvise avec ces instruments des paternes graphique sur de la musique.
