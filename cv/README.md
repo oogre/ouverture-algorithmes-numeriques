@@ -39,21 +39,23 @@
 </ul>
 
 <h3>Langues :</h3>
-	Français : Langue maternelle
-	Anglais : I've good abilities to argue any discussion
-
+<p>
+	<b>Français : </b>Langue maternelle<br/>
+	<b>Anglais : </b>I've good abilities to argue any discussion
+</p>
 <h3>Etudes :</h3>
-	2008 - 2010 : Master à l'ERG, Bruxelles - Art numérique et typographie
+<p>
+	<b>2008 - 2010 : </b>Master à l'ERG, Bruxelles - Art numérique et typographie<br/>
 		Mémoire : 
 			Fixer les nuages - C'est un manifeste qui cultive la vrais définition d'Internet. 
 			Le meilleur représentant graphique d'Internet est le nuage. Donc Fixer les nuages
 			est un voyage dans l'Histoire de la relation entre les nuages et les Humains.
 	
-	2005-2008 : Baccalauréat à l'ESA St Luc, Liège - Graphisme et typographie
+	<b>2005-2008 : </b>Baccalauréat à l'ESA St Luc, Liège - Graphisme et typographie<br/>
 	
-	2004-2005 : Baccalauréat à l'HELMo Gramme, Liège - Ingénieur industriel
-	1997-2004 : Certificat d'étude secondaire suppérieur à l'Institut St Joseph Liège - Matématique et Sciences
-
+	<b>2004-2005 : </b>Baccalauréat à l'HELMo Gramme, Liège - Ingénieur industriel<br/>
+	<b>1997-2004 : </b>Certificat d'étude secondaire suppérieur à l'Institut St Joseph Liège - Matématique et Sciences
+</p>
 <h3>Expériences professionel:</h3>
 <ul>
 	<li>2013 - 2015 : 
