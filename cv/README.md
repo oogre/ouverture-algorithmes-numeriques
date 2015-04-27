@@ -1,9 +1,9 @@
-<h3>Identité :</h3>
+<h3>Identité</h3>
 <p>
 	<b>Nom - Prénom :</b> Evrard Vincent<br/>
 	<b>Date de naissance :</b> 14/09/1985
 </p>
-<h3>Contacts :</h3>
+<h3>Contacts</h3>
 <p>
 	<b>Adresse : </b>rue mandeville 23, BE-4000 Liège<br/>
 	<b>Téléphone : </b>+32 495.876.315<br/>
@@ -12,7 +12,7 @@
 	<b>Twitter : </b>ogre_vince<br/>
 	<b>Github : </b>oogre
 </p>
-<h3>Compétences :</h3>
+<h3>Compétences</h3>
 <ul>
 	<li>Codes :
 		<ul>
@@ -38,7 +38,7 @@
 	</li>
 </ul>
 
-<h3>Langues :</h3>
+<h3>Langues</h3>
 <p>
 	<b>Français : </b>Langue maternelle<br/>
 	<b>Anglais : </b>I've good abilities to argue any discussion
@@ -56,7 +56,7 @@
 	<b>2004-2005 : </b>Baccalauréat à l'HELMo Gramme, Liège - Ingénieur industriel<br/>
 	<b>1997-2004 : </b>Certificat d'étude secondaire suppérieur à l'Institut St Joseph Liège - Matématique et Sciences
 </p>
-<h3>Expériences professionel:</h3>
+<h3>Expériences professionel</h3>
 <p>
 	<b>2013 - 2015 : </b>
 		<ul>
@@ -80,7 +80,7 @@
 			</li>
 		</ul>
 	
-	<b>2010 - 2013 : </b>
+	<b>2010 - 2015 : </b>
 		<ul>
 			<li><h5>Assistant technique pour l'artiste Felix Luque</h5>
 				<p>
@@ -99,6 +99,16 @@
 					<b>Techniques : </b><i>C++, Arduino UNO, PWM, XBee, TLC5940.h</i>
 				</p>
 			</li>
+			<li><h5>Hacker et performeur vidéo pour le groupe Osica</h5>
+				<p>
+					<b>Description : </b>Je joue en live avec des consoles d'effets vidéo vintage et des synthétiseurs vidéos. J'improvise avec ces instruments des paternes graphique en collaboration avec un musicien jouant sur un synthé modualaire.<br/>
+				</p>
+			</li>
+			<li><h5>Hacker et performeur vidéo pour le collectif VHS</h5>
+				<p>
+					<b>Description : </b>Je joue en live avec mes consoles videos, accompagné par deux autres performeurs. Nous créeons à trois, ensemble, des visuels résolument post internet art.<br/>
+				</p>
+			</li>
 			<li><h5>Codeur et performeur pour le collectif Killing Screen</h5>
 				<p>
 					<b>Description : </b>Je jouais en live un programme fait maison de génération graphique abstraite.<br/>
@@ -113,28 +123,45 @@
 			</li>
 		</ul>
 </p>
-<h3>Expériences artistique:</h3>
-		Hacker et performeur vidéo pour le groupe Osica
-		Hacker et performeur vidéo pour le collectif VHS
-			Je joue en live avec des consoles d'effets vidéo vintage, et des synthétiseurs vidéo. J'improvise avec ces instruments des paternes graphique sur de la musique.
-
-		Réalisations artistique : 
-			la grande ouverture du robinet du fun : 
-				Collaboration avec "nous somme quatre-vingt" Un évier robot raconte des blagues auto-dé-générée.
-			bcksp.es : 
-				Cette application archive tout le texte que ses utilisateurs suppriment online. Chaque utilisateur reçoit un livre révélant leurs pensées jamais assumées.
-			Regard : 
-				Deux grandes colonnes mirroirs se font face. Chacune refletant l'autre naturellement et numériquement.
-			Aphrogenea : 
-				Cette sculpture est composée d'un aquarium rempli d'huile dans lequel repose un écran d'ordinateur. L'écran affiche une bulle numérique qui deviendra une vrais bulle d'air.
-			datawallet.net : 
-				Une place de marché online, sur laquel chacun peut vendre ses données privées.
-			Cube : 
-				C'est une sculpture qui arpente l'espace du sol et capture des instantanés photographique de son environnement. 
-			Influenza/Twitter : 
-				Le virus de la grippe et Twitter répondent aux même phénomène, ce livre augmenté vous le montrera.
-
-		Invitations artistique : 
+<h3>Réalisations artistique</h3>
+<ul>
+	<li><h5>la grande ouverture du robinet du fun</h5>
+		<p>
+			<b>Description : </b>Collaboration avec "nous somme quatre-vingt" Un évier robot raconte des blagues auto-dé-générée.
+		</p>
+	</li>
+	<li><h5>bcksp.es</h5>
+		<p>
+			<b>Description : </b>Cette application archive tout le texte que ses utilisateurs suppriment online. Chaque utilisateur reçoit un livre révélant leurs pensées jamais assumées.
+		</p>
+	</li>
+	<li><h5>Regard</h5>
+		<p>
+			<b>Description : </b>Deux grandes colonnes mirroirs se font face. Chacune refletant l'autre naturellement et numériquement.
+		</p>
+	</li>
+	<li><h5>Aphrogenea</h5>
+		<p>
+			<b>Description : </b>Cette sculpture est composée d'un aquarium rempli d'huile dans lequel repose un écran d'ordinateur. L'écran affiche une bulle numérique qui deviendra une vrais bulle d'air.
+		</p>
+	</li>
+	<li><h5>datawallet.net</h5>
+		<p>
+			<b>Description : </b>Une place de marché online, sur laquel chacun peut vendre ses données privées.
+		</p>
+	</li>
+	<li><h5>Cube</h5>
+		<p>
+			<b>Description : </b>C'est une sculpture qui arpente l'espace du sol et capture des instantanés photographique de son environnement. 
+		</p>
+	</li>
+	<li><h5>Influenza/Twitter</h5>
+		<p>
+			<b>Description : </b>Le virus de la grippe et Twitter répondent aux même phénomène, ce livre augmenté vous le montrera.
+		</p>
+	</li>
+</ul>
+<h3>Invitations artistique</h3>
 			Transculture & La chambre blanche : 
 				Lighthouse : 
 					(En cours) Résidence entre le Canada et la Belgique, en collaboration avec Alice Jarry.
@@ -147,3 +174,4 @@
 					Collaboration avec Osica pour transformer un meuble radio vintage en mannette géante de la célèbre NES.
 				A Giant LowRes screen : 
 					Développement et réalisation d'un écran géant sur les fenêtres de chez iMAL. Tout type de contenus multimedia devait passer au travers de 6x3 spots DMX.
+</p>
