@@ -70,11 +70,32 @@
 					</li>
 					<li>
 						Techniques : 
-						<p>
-							JAVASCRIPT, Async patern, Ajax, Jquery.js; Processing.js, Raphael.js, Canvas, Bootstrap.css, GPhoto2, FFserver, FFmpeg, RTP, HTTPS, NGINX, PHP, Coockie hacking, FacebookGRAPH, TwitterAPI,  YoutubeAPI, VimeoAPI, lecteur NFC/RFID, Arduino, JAVA
-						</p>
-						</li>
-					</ul>
+						<ul>
+							<li>JAVASCRIPT</li>
+							<li>Async patern</li>
+							<li>Ajax</li>
+							<li>Jquery.js; Processing.js</li>
+							<li>Raphael.js</li>
+							<li>Canvas</li>
+							<li>Bootstrap.css</li>
+							<li>GPhoto2</li>
+							<li>FFserver</li>
+							<li>FFmpeg</li>
+							<li>RTP</li>
+							<li>HTTPS</li>
+							<li>NGINX</li>
+							<li>PHP</li>
+							<li>Coockie hacking</li>
+							<li>FacebookGRAPH</li>
+							<li>TwitterAPI</li>
+							<li> YoutubeAPI</li>
+							<li>VimeoAPI</li>
+							<li>lecteur NFC/RFID</li>
+							<li>Arduino</li>
+							<li>JAVA</li>
+						</ul>
+					</li>
+				</ul>
 			</li>
 			<li>SideKick developer - Getyoo
 				<ul>
