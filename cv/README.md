@@ -151,7 +151,7 @@
 	</li>
 	<li>
 		<p>
-			<b>Glitch collection : </b>Trois livres constitue cette archive, à la seconde près, d'un live vidéo de trois heures que j'ai tenu à Camp d'Art.
+			<b>Glitch collection : </b>Trois livres constituent cette archive, à la seconde près, d'un live vidéo de trois heures que j'ai tenu à Camp d'Art.
 		</p>
 	</li>
 	<li>
