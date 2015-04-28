@@ -170,7 +170,7 @@
 	</li>
 	<li>
 		<p>
-			<b>Influenza/Twitter : </b>Le virus de la grippe et Twitter répondent aux même phénomène, ce livre augmenté vous le montrera.
+			<b>Influenza/Twitter : </b>Le virus de la grippe et Twitter répondent aux mêmes phénomènes, ce livre augmenté vous le montrera.
 		</p>
 	</li>
 </ul>
