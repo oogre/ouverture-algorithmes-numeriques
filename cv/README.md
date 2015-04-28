@@ -68,16 +68,16 @@
 			<li><h5>Assistant technique - GrizzlyLab</h5>
 				<p>
 					Développement et Desgin d'un tableau horaire interactif pour le PASS<br/>
-					<b>Techniques : </b><i>HTML/CSS, javascript, bootstrap, ...</i>
+					<b>Techniques : </b><i>HTML/CSS, javascript, bootstrap</i>
 				</p>
 				<p>
 					Développement (logiciel et matériel) d'un système interactif de déclenchement de lecture vidéo<br/>
-					<b>Techniques : </b><i>Arduino, Ultrasonic sensors, Serial, ...</i>
+					<b>Techniques : </b><i>Arduino, Ultrasonic sensors, Serial</i>
 				</p>
 			</li>
 			<li><h5>Développeur - Atelier du Froid</h5>
 				<p>
-					<b>Description : </b>Application mobile de gestion du travail en entreprise.<br/>
+					<b>Description : </b>Développement d'une application mobile de gestion du travail en entreprise<br/>
 					<b>Techniques : </b><i>Meteor, Android</i>
 				</p>
 			</li>
@@ -86,7 +86,7 @@
 		<ul>
 			<li><h5>Développeur d'interaction numérique - Getyoo</h5>
 				<p>
-					<b>Description : </b>En charge de la recherche et développement de kiosques interactifs. C'est kiosques sont utilisés dans des événements comme le salon de l'auto de Bruxelles, à Walibi, aux conférences TEDx, à la biennale Intérieur Design... Les différentes interfaces utilisateur sont réalisées en JAVASCRIPT + HTML + CSS. J'ai développé un kiosque photobooth, un kiosque check-in/out, un kiosque d'enregistrement utilisateur, un kiosque de navigation multimédia, un kiosque de quizz.<br/>
+					<b>Description : </b>En charge de la recherche et développement de kiosques interactifs. Ces kiosques sont utilisés dans des événements comme le salon de l'auto de Bruxelles, à Walibi, aux conférences TEDx, à la biennale Intérieur Design... Les différentes interfaces utilisateur sont réalisées en JAVASCRIPT + HTML + CSS. J'ai développé un kiosque photobooth, un kiosque check-in/out, un kiosque d'enregistrement utilisateur, un kiosque de navigation multimédia, un kiosque de quizz.<br/>
 					<b>Techniques : </b><i>Javascript, Async patern, Ajax, Jquery.js, Processing.js, Raphael.js, Canvas, FacebookGRAPH, TwitterAPI, YoutubeAPI, VimeoAPI, Bootstrap.css, PHP, Nginx, GPhoto2, FFserver, FFmpeg, RTP, HTTPS, NFC/RFID, Arduino, Java</i>
 				</p>
 			</li>
