@@ -23,7 +23,7 @@
 			<li>SQL : MariaDB</li>
 			<li>noSQL : MongoDB</li>
 			<li>HTML5</li>
-			<li>CSS3 : Bootstrap, Pure.css</li>
+			<li>CSS3 : Bootstrap, Pure</li>
 			<li>GIT</li>
 		</ul>
 	</li>
@@ -45,22 +45,22 @@
 </p>
 <h3>Etudes</h3>
 <p>
-	<b>2008 - 2010 : </b>Master à l'ERG, Bruxelles - Art numérique et typographie<br/>
+	<b>2008 - 2010 : </b>Master à l'ERG, Bruxelles - Art Numérique et Typographie<br/>
 		Mémoire : 
-			Fixer les nuages - C'est un manifeste qui cultive la vrais définition d'Internet. 
-			Le meilleur représentant graphique d'Internet est le nuage. Donc Fixer les nuages
-			est un voyage dans l'Histoire de la relation entre les nuages et les Humains.<br/>
+			Fixer les nuages - C'est un manifeste dans lequel je cultive la vrais définition d'Internet. 
+			Le meilleur représentant graphique d'Internet est le nuage. Fixer les nuages
+			est un voyage dans l'Histoire de la relation entre les nuages et les humains.<br/>
 	
-	<b>2005-2008 : </b>Baccalauréat à l'ESA St Luc, Liège - Graphisme et typographie<br/>
+	<b>2005-2008 : </b>Baccalauréat à l'ESA St Luc, Liège - Graphisme et Typographie<br/>
 	
-	<b>2004-2005 : </b>Baccalauréat à l'HELMo Gramme, Liège - Ingénieur industriel<br/>
-	<b>1997-2004 : </b>Certificat d'étude secondaire suppérieur à l'Institut St Joseph Liège - Matématique et Sciences
+	<b>2004-2005 : </b>Baccalauréat à l'HELMo Gramme, Liège - Ingénieur Industriel<br/>
+	<b>1997-2004 : </b>Certificat d'étude secondaire supérieur à l'Institut St Joseph Liège - Mathématique et Sciences
 </p>
-<h3>Expériences professionel</h3>
+<h3>Expériences professionnel</h3>
 <p>
 	<b>2013 - 2015 : </b>
 		<ul>
-			<li><h5>Animateur d'atelier Arts & Crafts - iMAL</h5>
+			<li><h5>​Conférencier pour l'atelier Arts & Crafts - iMAL</h5>
 				<p>
 					<b>Techniques : </b><i>Processing, Arduino, PHP</i>
 				</p>
@@ -86,13 +86,13 @@
 		<ul>
 			<li><h5>Développeur d'interaction numérique - Getyoo</h5>
 				<p>
-					<b>Description : </b>En charge de la recherche et développement de kiosks interactifs. C'est kiosks sont utilisés dans des événements comme le salon de l'auto à Bruxelles, à Wallibi, aux conférences TEDx, à la biénnale Intérieur Design, et d'autres. Les différentent interfaces utilisateur sont réalisées en JAVASCRIPT + HTML + CSS. J'ai développé un kiosk photobooth, un kiosk check-in/out, un kiosk d'enregistrement utilisateur, un kiosk de navigation multimédia, un kiosk de mini quizz.<br/>
+					<b>Description : </b>En charge de la recherche et développement de kiosques interactifs. C'est kiosques sont utilisés dans des événements comme le salon de l'auto de Bruxelles, à Walibi, aux conférences TEDx, à la biennale Intérieur Design... Les différentes interfaces utilisateur sont réalisées en JAVASCRIPT + HTML + CSS. J'ai développé un kiosque photobooth, un kiosque check-in/out, un kiosque d'enregistrement utilisateur, un kiosque de navigation multimédia, un kiosque de quizz.<br/>
 					<b>Techniques : </b><i>Javascript, Async patern, Ajax, Jquery.js, Processing.js, Raphael.js, Canvas, FacebookGRAPH, TwitterAPI, YoutubeAPI, VimeoAPI, Bootstrap.css, PHP, Nginx, GPhoto2, FFserver, FFmpeg, RTP, HTTPS, NFC/RFID, Arduino, Java</i>
 				</p>
 			</li>
 			<li><h5>SideKick developer - Getyoo</h5>
 				<p>
-					<b>Description : </b>Second sur la recherche et développement pour la formation du serveur Getyoo et de son application web. Cette application fonctionne sur le MVC Zend Framework. <br/>
+					<b>Description : </b>Second sur la recherche et développement pour la ​création du serveur Getyoo et de son application web. Cette application fonctionne sur le MVC Zend Framework. <br/>
 					<b>Techniques : </b><i>PHP, MySQL/MariaDB, RestfulAPI, Javascript, JWplayer, JQuery, RTP, HTTPS, Apache2, FacebookGRAPH, TwitterAPI, Highcharts.js</i>
 				</p>
 			</li>
@@ -103,7 +103,7 @@
 			<li><h5>Assistant technique pour l'artiste Felix Luque</h5>
 				<p>
 					Développement Arduino pour la sculpture DWI-Modular<br/>
-					<b>Description : </b>J'ai développé un protocole de communication pour piloter indépendament 240 rubans LED réparti sur 10 arduinos. Le but est de piloter de façons précise la modification de luminausité de chacun des rubans aussi bien de façon lente que très rapide.<br/>
+					<b>Description : </b>J'ai développé un protocole de communication pour piloter indépendamment 240 rubans LED réparti sur 10 Arduinos. Le but était de contrôler avec précision la modification de luminosité de chacun des rubans aussi bien de façon lente que très rapide.<br/>
 					<b>Techniques : </b><i>C++, Arduino UNO, PWM, XBee, TLC5940.h, avr/wdt.h</i>
 				</p>
 				<p>
@@ -113,18 +113,18 @@
 				</p>
 				<p>
 					Développement Arduino pour la sculpture Chapter-1-The-Discovery<br/>
-					<b>Description : </b>J'ai optimisé le protocole de communication sans file<br/>
+					<b>Description : </b>J'ai optimisé le protocole de communication sans fil de cette sculpture<br/>
 					<b>Techniques : </b><i>C++, Arduino UNO, PWM, XBee, TLC5940.h</i>
 				</p>
 			</li>
 			<li><h5>Hacker et performeur vidéo pour le groupe Osica</h5>
 				<p>
-					<b>Description : </b>Je joue en live avec des consoles d'effets vidéo vintage et des synthétiseurs vidéos. J'improvise avec ces instruments des paternes graphique en collaboration avec un musicien jouant sur un synthé modualaire.<br/>
+					<b>Description : </b>Je joue en live avec des consoles d'effets vidéo vintage et des synthétiseurs vidéos. J'improvise des paternes graphique en collaboration avec un musicien jouant sur un synthé modulaire.<br/>
 				</p>
 			</li>
 			<li><h5>Hacker et performeur vidéo pour le collectif VHS</h5>
 				<p>
-					<b>Description : </b>Je joue en live avec mes consoles videos, accompagné par deux autres performeurs. Nous créeons à trois, ensemble, des visuels résolument post internet art.<br/>
+					<b>Description : </b>Je joue en live avec mes consoles vidéos, accompagné par deux autres performeurs. Nous créons à trois, ensemble, des visuels résolument post internet art.<br/>
 				</p>
 			</li>
 			<li><h5>Codeur et performeur pour le collectif Killing Screen</h5>
@@ -135,7 +135,7 @@
 			</li>
 			<li><h5>Codeur et performeur pour le collectif Union By Motion</h5>
 				<p>
-					<b>Description : </b>Je m'occupait du développement et de la performation d'instruments génératifs et interactifs. <br/>
+					<b>Description : </b>Je développais et jouais des instruments génératifs et interactifs. <br/>
 					<b>Techniques : </b><i>Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5</i>
 				</p>
 			</li>
@@ -150,7 +150,7 @@
 	</li>
 	<li>
 		<p>
-			<b>Regard : </b>Deux grandes colonnes mirroirs se font face. Chacune refletant l'autre naturellement et numériquement.
+			<b>Regard : </b>Deux grandes colonnes miroirs se font face. Chacune refléte l'autre naturellement et numériquement.
 		</p>
 	</li>
 	<li>
@@ -160,7 +160,7 @@
 	</li>
 	<li>
 		<p>
-			<b>datawallet.net : </b>Une place de marché online, sur laquel chacun peut vendre ses données privées.
+			<b>datawallet.net : </b>Une place de marché online, sur ​laquelle chacun peut vendre ses données privées.
 		</p>
 	</li>
 	<li>
@@ -191,15 +191,15 @@
 			<b>Carpet : </b>Réalisation d'un tapis au graphisme autogénéraif influencé par le mouvement des gens. 
 		</p>
 		<p>
-			<b>Reactive devices : </b>Collaboration avec Getyoo, transformation d'objet comme un canon à confetti, des flashs en jeux interactif avec des lecteur RFID
+			<b>Reactive devices : </b>Collaboration avec Getyoo, ​hack​ d'objet comme un canon à confetti, des flashs ​convertis en jeux interactif avec des lecteur RFID
 		</p>
 		<p>
-			<b>NintendOldFurniture : </b>Collaboration avec Osica pour transformer un meuble radio vintage en mannette géante de la célèbre NES.
+			<b>NintendOldFurniture : </b>Collaboration avec Osica, ​hack​ d'un meuble radio vintage ​converti en mannette géante de la célèbre NES.
 		</p>
 	</li>
 	<li><h5>iMAL</h5>
 		<p>
-			<b>A Giant LowRes screen : </b>Développement et réalisation d'un écran géant au travers des fenêtres du bâptiment de iMAL. Tout type de contenus multimedia devait passer au travers de 6x3 spots DMX.
+			<b>A Giant LowRes screen : </b>Développement et réalisation d'un écran géant au travers des fenêtres du bâtiment de iMAL. Tout type de contenus multimédia devait passer au travers de 6x3 spots DMX.
 		</p>
 	</li>
 </p>
