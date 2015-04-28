@@ -103,7 +103,7 @@
 			<li><h5>Assistant technique pour l'artiste Felix Luque</h5>
 				<p>
 					Développement Arduino pour la sculpture DWI-Modular<br/>
-					<b>Description : </b>J'ai développé un protocole de communication pour piloter indépendamment 240 rubans LED réparti sur 10 Arduinos. Le but était de contrôler avec précision la modification de luminosité de chacun des rubans aussi bien de façon lente que très rapide.<br/>
+					<b>Description : </b>J'ai développé un protocole de communication pour piloter indépendamment 240 rubans LED répartis sur 10 Arduinos. Le but était de contrôler avec précision la modification de luminosité de chacun des rubans aussi bien de façon lente que très rapide.<br/>
 					<b>Techniques : </b><i>C++, Arduino UNO, PWM, XBee, TLC5940.h, avr/wdt.h</i>
 				</p>
 				<p>
