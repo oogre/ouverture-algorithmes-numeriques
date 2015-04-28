@@ -13,7 +13,7 @@
 <h3>Pourquoi enseigner la programmation dans une école artistique?</h3>
 <p>
 	Qui ne prend pas conscience de la nature du code voit les algorithmes
-	comme une magie occulte, une divinité éclatée. Ne pas voir la substance des algorithmes
+	comme une magie occulte, une divinité éclatée. Ne pas voir la substance des algorithmes,
 	c'est ce laisser éblouir par eux. C'est se laisser emmener par leurs auteurs.
 	Le rôle des artistes dans la société est de montrer le réel, de le rendre sensible.
 	Cette responsabilité, leur pertinence, ne tient qu'au travers de leur propre compréhension du réel.
@@ -41,7 +41,7 @@
 	<p>
 		Il n'est pas question ni de former des spécialistes, ni des codeurs. 
 		Le projet de ce cours est de faire fleurir la pratique de chaque étudiant à la lumière du code numérique.
-		Il n'est pas question d'enseigner une langage et les fondements de celui-ci. 
+		Il n'est pas question d'enseigner un langage et les fondements de celui-ci. 
 		Le projet de ce cours est de montrer, d'ouvrir l'esprit de chaque étudiant à la logique de programmation.
 	</p>
 	<p>

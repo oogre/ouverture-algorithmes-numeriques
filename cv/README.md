@@ -41,7 +41,7 @@
 <h3>Langues</h3>
 <p>
 	<b>Français : </b>Langue maternelle<br/>
-	<b>Anglais : </b>I've good abilities to argue any discussion
+	<b>Anglais : </b>I've good abilities to argue any discussion. I pretend to be able to... and it works.
 </p>
 <h3>Etudes</h3>
 <p>
@@ -67,12 +67,8 @@
 			</li>
 			<li><h5>Assistant technique - GrizzlyLab</h5>
 				<p>
-					Développement et Desgin d'un tableau horaire interactif pour le PASS<br/>
-					<b>Techniques : </b><i>HTML/CSS, javascript, bootstrap</i>
-				</p>
-				<p>
-					Développement (logiciel et matériel) d'un système interactif de déclenchement de lecture vidéo<br/>
-					<b>Techniques : </b><i>Arduino, Ultrasonic sensors, Serial</i>
+					Développement et Desgin de divers systèmes interactifs pour le PASS<br/>
+					<b>Techniques : </b><i>Arduino, Ultrasonic sensors, Serial, HTML/CSS, javascript, bootstrap</i>
 				</p>
 			</li>
 			<li><h5>Développeur - Atelier du Froid</h5>
@@ -119,12 +115,12 @@
 			</li>
 			<li><h5>Hacker et performeur vidéo pour le groupe Osica</h5>
 				<p>
-					<b>Description : </b>Je joue en live avec des consoles d'effets vidéo vintage et des synthétiseurs vidéos. J'improvise des paternes graphique en collaboration avec un musicien jouant sur un synthé modulaire.<br/>
+					<b>Description : </b>Je joue en live avec des consoles d'effets vidéos vintages hackées et des synthétiseurs vidéos. J'improvise des paternes graphique en collaboration avec un musicien jouant sur un synthé modulaire.<br/>
 				</p>
 			</li>
 			<li><h5>Hacker et performeur vidéo pour le collectif VHS</h5>
 				<p>
-					<b>Description : </b>Je joue en live avec mes consoles vidéos, accompagné par deux autres performeurs. Nous créons à trois, ensemble, des visuels résolument post internet art.<br/>
+					<b>Description : </b>Je joue en live avec mes consoles vidéos, accompagné par deux autres performeurs. Nous créons à trois, ensemble, des visuels dans la mouvance post internet art.<br/>
 				</p>
 			</li>
 			<li><h5>Codeur et performeur pour le collectif Killing Screen</h5>
@@ -145,12 +141,32 @@
 <ul>
 	<li>
 		<p>
-			<b>bcksp.es : </b>Cette application archive tout le texte que ses utilisateurs suppriment online. Chaque utilisateur reçoit un livre révélant leurs pensées jamais assumées.
+			<b>Analog glitch : </b>Photographies (50x50cm) - Des instantanés capté sur un écran de télévision cathodique allimenté par un ensembles des machines hackées.
+		</p>
+	</li>
+	<li>
+		<p>
+			<b>bcksp.es : </b>Cette application archive tout le texte que ses utilisateurs suppriment online. Chaque utilisateur reçoit un livre révélant leurs pensées écrites mais jamais envoyées/assumées.
+		</p>
+	</li>
+	<li>
+		<p>
+			<b>Glitch collection : </b>Trois livres constitue cette archive, à la seconde près, d'un live vidéo de trois heures que j'ai tenu à Camp d'Art.
+		</p>
+	</li>
+	<li>
+		<p>
+			<b>Lost it to trying : </b>Un livre transposant une vidéo reçue un matin sur whatsapp.
 		</p>
 	</li>
 	<li>
 		<p>
 			<b>Regard : </b>Deux grandes colonnes miroirs se font face. Chacune refléte l'autre naturellement et numériquement.
+		</p>
+	</li>
+	<li>
+		<p>
+			<b>Un corps sans surface : </b>Deux livres énnoncent l'avant, le pendant et l'après de tout.
 		</p>
 	</li>
 	<li>
@@ -183,7 +199,7 @@
 	</li>
 	<li><h5>Balaise production</h5>
 		<p>
-			<b>La grande ouverture du robinet du fun : </b>Un évier robot raconte des blagues auto-dé-générée. Collaboration avec "nous sommes quatre-vingt". 
+			<b>La grande ouverture du robinet du fun : </b>Un évier robot raconte des blagues auto-dé-générée. Collaboration avec "noussommesquatrevingt". 
 		</p>
 	</li>
 	<li><h5>PIAS Nite</h5>
@@ -191,7 +207,7 @@
 			<b>Carpet : </b>Réalisation d'un tapis au graphisme autogénéraif influencé par le mouvement des gens. 
 		</p>
 		<p>
-			<b>Reactive devices : </b>Collaboration avec Getyoo, ​hack​ d'objet comme un canon à confetti, des flashs ​convertis en jeux interactif avec des lecteur RFID
+			<b>Reactive devices : </b>Collaboration avec Getyoo, ​hack​ d'objet comme un canon à confetti, des flashs ​convertis en jeux interactif avec des lecteurs RFID
 		</p>
 		<p>
 			<b>NintendOldFurniture : </b>Collaboration avec Osica, ​hack​ d'un meuble radio vintage ​converti en mannette géante de la célèbre NES.
