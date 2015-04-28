@@ -141,7 +141,7 @@
 <ul>
 	<li>
 		<p>
-			<b>Analog glitch : </b>Photographies (50x50cm) - Des instantanés capté sur un écran de télévision cathodique allimenté par un ensembles des machines hackées.
+			<b>Analog glitch : </b>Photographies (50x50cm) - Des instantanés capté sur un écran de télévision cathodique allimenté par un ensemble de machines hackées.
 		</p>
 	</li>
 	<li>
