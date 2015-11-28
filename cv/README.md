@@ -65,9 +65,9 @@
 					<b>Techniques : </b><i>Processing, Javascript</i>
 				</p>
 			</li>
-			<li><h5>Animateur workshop arduino - TRAKK</h5>
+			<li><h5>Animateur workshop Arduino - TRAKK Namur</h5>
 				<p>
-					<b>Techniques : </b><i>Processing, Arduino, électonique, </i>
+					<b>Techniques : </b><i>Processing, Arduino, électonique</i>
 				</p>
 			</li>
 			<li><h5>Formateur Arduino - Bruxelles Formation</h5>
