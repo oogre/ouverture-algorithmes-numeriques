@@ -47,7 +47,7 @@
 <p>
 	<b>2008 - 2010 : </b>Master à l'ERG, Bruxelles - Art Numérique et Typographie<br/>
 		Mémoire : 
-			Fixer les nuages - C'est un manifeste dans lequel je cultive la vrais définition d'Internet. 
+			Fixer les nuages - C'est un manifeste dans lequel je cultive la vraie définition d'Internet. 
 			Le meilleur représentant graphique d'Internet est le nuage. Fixer les nuages
 			est un voyage dans l'Histoire de la relation entre les nuages et les humains.<br/>
 	
@@ -56,7 +56,7 @@
 	<b>2004-2005 : </b>Baccalauréat à l'HELMo Gramme, Liège - Ingénieur Industriel<br/>
 	<b>1997-2004 : </b>Certificat d'étude secondaire supérieur à l'Institut St Joseph Liège - Mathématique et Sciences
 </p>
-<h3>Expériences professionnel</h3>
+<h3>Expériences professionnelles</h3>
 <p>
 	<b>2013 - 2015 : </b>
 		<ul>
@@ -67,7 +67,7 @@
 			</li>
 			<li><h5>Animateur workshop Arduino - TRAKK Namur</h5>
 				<p>
-					<b>Techniques : </b><i>Processing, Arduino, électonique</i>
+					<b>Techniques : </b><i>Processing, Arduino, électonique, découpe laser</i>
 				</p>
 			</li>
 			<li><h5>Formateur Arduino - Bruxelles Formation</h5>
@@ -82,7 +82,7 @@
 			</li>
 			<li><h5>Assistant technique - GrizzlyLab</h5>
 				<p>
-					Développement et Desgin de divers systèmes interactifs pour le PASS<br/>
+					Développement et Design de divers systèmes interactifs pour le PASS<br/>
 					<b>Techniques : </b><i>Arduino, Ultrasonic sensors, Serial, HTML/CSS, javascript, bootstrap</i>
 				</p>
 			</li>
@@ -119,7 +119,7 @@
 				</p>
 				<p>
 					Développement Arduino pour la sculpture DWI-Chaos-Synth<br/>
-					<b>Description : </b>J'ai développé une méthode d'écriture et de lecture d'une sorte de partition musical. Le but est de faire jouer X synthétiseurs au moyen de Y potentiomètres. Le programme fait tourner des moteurs pas à pas afin qu'ils atteignent la position requise par la partition. Le code devait être facilement modifiable par l'artiste pour modifier le nombre de synthétiseur et le nombre de potentiomètre par synthétiseur.<br/>
+					<b>Description : </b>J'ai développé une méthode d'écriture et de lecture d'une sorte de partition musicale. Le but est de faire jouer X synthétiseurs au moyen de Y potentiomètres. Le programme fait tourner des moteurs pas à pas afin qu'ils atteignent la position requise par la partition. Le code devait être facilement modifiable par l'artiste pour modifier le nombre de synthétiseur et le nombre de potentiomètre par synthétiseur.<br/>
 					<b>Techniques : </b><i>C++, Arduino MEGA, PWM</i>
 				</p>
 				<p>
@@ -152,7 +152,7 @@
 			</li>
 		</ul>
 </p>
-<h3>Réalisations artistique</h3>
+<h3>Réalisations artistiques</h3>
 <ul>
 	<li>
 		<p>
@@ -186,7 +186,7 @@
 	</li>
 	<li>
 		<p>
-			<b>Aphrogenea : </b>Cette sculpture est composée d'un aquarium rempli d'huile dans lequel repose un écran d'ordinateur. L'écran affiche une bulle numérique qui deviendra une vrais bulle d'air.
+			<b>Aphrogenea : </b>Cette sculpture est composée d'un aquarium rempli d'huile dans lequel repose un écran d'ordinateur. L'écran affiche une bulle numérique qui deviendra une vraie bulle d'air.
 		</p>
 	</li>
 	<li>
@@ -196,7 +196,7 @@
 	</li>
 	<li>
 		<p>
-			<b>Cube : </b>C'est une sculpture qui arpente l'espace du sol et capture des instantanés photographique de son environnement. 
+			<b>Cube : </b>C'est une sculpture qui arpente l'espace du sol et capture des instantanés photographiques de son environnement. 
 		</p>
 	</li>
 	<li>
@@ -205,7 +205,7 @@
 		</p>
 	</li>
 </ul>
-<h3>Invitations artistique</h3>
+<h3>Invitations artistiques</h3>
 <ul>
 	<li><h5>Transculture & La chambre blanche</h5>
 		<p>
@@ -214,7 +214,7 @@
 	</li>
 	<li><h5>Balaise production</h5>
 		<p>
-			<b>La grande ouverture du robinet du fun : </b>Un évier robot raconte des blagues auto-dé-générée. Collaboration avec "noussommesquatrevingt". 
+			<b>La grande ouverture du robinet du fun : </b>Un évier robot raconte des blagues auto-dé-générées. Collaboration avec "noussommesquatrevingt". 
 		</p>
 	</li>
 	<li><h5>PIAS Nite</h5>
@@ -230,7 +230,7 @@
 	</li>
 	<li><h5>iMAL</h5>
 		<p>
-			<b>A Giant LowRes screen : </b>Développement et réalisation d'un écran géant au travers des fenêtres du bâtiment de iMAL. Tout type de contenus multimédia devait passer au travers de 6x3 spots DMX.
+			<b>A Giant LowRes screen : </b>Développement et réalisation d'un écran géant au travers des fenêtres du bâtiment de iMAL. Tout type de contenus multimédia devaient passer au travers de 6x3 spots DMX.
 		</p>
 	</li>
 </p>
