@@ -60,6 +60,21 @@
 <p>
 	<b>2013 - 2015 : </b>
 		<ul>
+			<li><h5>Professeur de programmation - ESA ST Luc Bruxelles</h5>
+				<p>
+					<b>Techniques : </b><i>Processing, Javascript</i>
+				</p>
+			</li>
+			<li><h5>Animateur workshop arduino - TRAKK</h5>
+				<p>
+					<b>Techniques : </b><i>Processing, Arduino, électonique, </i>
+				</p>
+			</li>
+			<li><h5>Formateur Arduino - Bruxelles Formation</h5>
+				<p>
+					<b>Techniques : </b><i>Arduino, électronique</i>
+				</p>
+			</li>
 			<li><h5>​Conférencier pour l'atelier Arts & Crafts - iMAL</h5>
 				<p>
 					<b>Techniques : </b><i>Processing, Arduino, PHP</i>
