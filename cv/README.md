@@ -42,6 +42,11 @@
 			<li>Découpe laser</li>
 		</ul>
 	</li>
+	<li>Relations humaines : 
+		<ul>
+			<li>20 ans de scoutisme dont 7 comme animateur scout, pionnier et d'unité</li>
+		</ul>
+	</li>
 </ul>
 
 <h3>Langues</h3>
