@@ -177,8 +177,8 @@
 			<p>
 				<b>Lighthouses 01 : </b>Lighthouses est une installation lumineuse et sonore in situ composée de verres dichroïques, de miroirs, de verre brisé, de moteurs, de lumiéres DELs et de cellules photosensibles. Elle est réalisée en collaboration avec l’artiste Alice Jarry (Ca). Coproduction Transculture & La chambre blanche. https://vimeo.com/album/3681241
 				<b>Expositions : </b> 
-				Lighthouses_03, Video Sound Art Festival, Museo Nazionale Scienza e Tecnologia Leonardo da Vinci, Milan, Italie, octobre-novembre 2016.
-				Lighthouses 02, Action Art Actuel, St-Jean sur Richelieu, Canada, septembre-octobre 2016.
+				Lighthouses_03, Video Sound Art Festival, Museo Nazionale Scienza e Tecnologia Leonardo da Vinci, Milan, Italie, octobre-novembre 2016.<br/>
+				Lighthouses 02, Action Art Actuel, St-Jean sur Richelieu, Canada, septembre-octobre 2016.<br/>
 				Lighthouses 01, Transnumériques, Manège de Sury, Mons, Belgique, ocotbre-novembre 2015.
 			</p>
 		</li>
