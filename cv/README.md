@@ -5,7 +5,7 @@
 </p>
 <h3>Contacts</h3>
 <p>
-	<b>Adresse : </b>rue mandeville 23, BE-4000 Liège<br/>
+	<b>Adresse : </b>avenue Télémaque 11, BE-1190 Forest<br/>
 	<b>Téléphone : </b>+32 495.876.315<br/>
 	<b>Courriel : </b>vincent@ogre.be<br/>
 	<b>Site web : </b>http://ogre.be<br/>
@@ -16,7 +16,7 @@
 <ul>
 	<li>Codes :
 		<ul>
-			<li>Javascript : client & serveur</li>
+			<li>Javascript : client - serveur</li>
 			<li>PHP : MVC Zend Framework</li>
 			<li>JAVA : Processing</li>
 			<li>C++ : Arduino, OpenFrameWork, Cinder</li>
@@ -36,11 +36,13 @@
 			<li>inDesign</li>
 			<li>Première</li>
 			<li>Final Cut</li>
+			<li>Module 8</li>
 		</ul>
 	</li>
 	<li>Matériaux :
 		<ul>
-			<li>Prototypage électronique</li>
+			<li>Prototypage électronique : Design PCB : Eagle</li>
+			<li>Fraiseuse numérique : CNC</li>
 			<li>Découpe laser</li>
 		</ul>
 	</li>
@@ -64,9 +66,7 @@
 		Mémoire : 
 			Fixer les nuages - C'est un manifeste dans lequel je cultive la vraie définition d'Internet. 
 			http://lab.ogre.be/fixerLesNuages.pdf<br/>
-	
 	<b>2005-2008 : </b>Baccalauréat à l'ESA St Luc, Liège - Graphisme et Typographie<br/>
-	
 	<b>2004-2005 : </b>Baccalauréat à l'HELMo Gramme, Liège - Ingénieur Industriel<br/>
 	<b>1997-2004 : </b>Certificat d'étude secondaire supérieur à l'Institut St Joseph Liège - Mathématique et Sciences
 </p>

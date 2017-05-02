@@ -47,7 +47,7 @@
 	</ul>
 	<h4>Enjeux</h4>
 	<p>
-		Il n'est pas question ni de former des spécialistes, ni des codeurs. Le projet de ce cours est de faire fleurir la pratique de chaque étudiant à la lumière du code numérique et non d'enseigner un langage et les fondements de celui-ci. Le projet de ce cours est d'ouvrir la créativité de chaque étudiant au moyen des outils les plus approprié pour le modes de création numérique le plus pertinent.
+		Il n'est pas question ni de former des spécialistes, ni des codeurs. Le projet de ce cours est de faire fleurir la pratique de chaque étudiant à la lumière du code numérique, de développer leur autonomie, d'ouvrir leur créativité en confortant leurs capacités à appréhender le monde algorithmique.
 	</p>
 	<p>
 		Cela dans le but que chacun puisse librement avancer dans ses connaissances. Que chacun puisse évoluer dans le monde en mutation permanente. Que chacun puisse communiquer/montrer la pertinence de ses intuitions.
