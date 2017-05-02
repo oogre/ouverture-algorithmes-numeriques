@@ -13,23 +13,23 @@
 <p>
 	Tout d’abord, disons un mot au sujet de l’image numérique. Il ne s’agit pas d’une question esthétique, ce n’est pas dans le mouvement ou dans le rapport à l’écran qu’elle développe son plus grand potentiel. Il s’agit d’introduire dans la création d’images au moyen d'algorithmes une dose d’interaction, de participation, de globalisation, bref de processus. Ci-après, de mots, d’éléments glanés sur le web au moment de la rédaction de ce dossier me servent à illustrer quelque peu la pertinence de cette enseignement. 
 	<ul>
-	<li>◍ <a href="http://www.app-art-award.org">Media mobile : Call for Submissions: ZKM’s AppArtAward 2017 for iOS and Android</a>
+	<li>◍ <a href="#">Media mobile : Call for Submissions: ZKM’s AppArtAward 2017 for iOS and Android</a> : http://www.app-art-award.org
 	</li>
-	<li>◍ <a href="http://indiegames.com">Jeu vidéo</a>
+	<li>◍ <a href="#">Jeu vidéo</a> : http://indiegames.com
 	</li>
-	<li>◍ <a href="http://www.super-script.com">Superscript 2 (studio graphique)</a>
+	<li>◍ <a href="#">Superscript 2 (studio graphique)</a> : http://www.super-script.com
 	</li>
-	<li>◍ <a href="http://lavillahermosa.com/">La Villa Hermosa</a>
+	<li>◍ <a href="#">La Villa Hermosa</a> : http://lavillahermosa.com/
 	</li>
-	<li>◍ <a href="https://www.kikk.io/opencall">Opencall speculative design : Kikk festival 2017</a>
+	<li>◍ <a href="#">Opencall speculative design : Kikk festival 2017</a> : https://www.kikk.io/opencall
 	</li>
-	<li>◍ <a href="http://sfpc.io/">School for Poetic Computation</a>
+	<li>◍ <a href="#">School for Poetic Computation</a> : http://sfpc.io/
 	</li>
-	<li>◍ <a href="https://deepdreamgenerator.com/">Google deep dream</a>
+	<li>◍ <a href="#">Google deep dream</a> : https://deepdreamgenerator.com/
 	</li>
-	<li>◍ <a href="https://github.com/AmnonOwed/CAN_GenerativeTypography">Generative Typography</a>
+	<li>◍ <a href="#">Generative Typography</a> : https://github.com/AmnonOwed/CAN_GenerativeTypography
 	</li>
-	<li>◍ <a href="http://www.velvetyne.fr/">Libre et open source type foundry</a>
+	<li>◍ <a href="#">Libre et open source type foundry</a> : http://www.velvetyne.fr/
 	</li>
 	</ul>
 </p>
