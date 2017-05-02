@@ -84,6 +84,24 @@
 					<b>Techniques : </b><i>Créativité, RaspberryPi, Arduino, prototypage électronique</i>
 				</p>
 			</li>
+			<li><h4>Assistant technique pour l'artiste Felix Luque</h4>
+				<p>
+					Développement Raspberry et Arduino pour la sculpture "Werking Yard".<br/>
+					<b>Techniques : </b><i>info à venir</i>
+				</p>
+				<p>
+					Développement Arduino pour la sculpture "Memory Lane" : http://www.felixluque.com/Memory-Lane<br/>
+					<b>Techniques : </b><i>C++, Arduino UNO, Sepper Motor</i>
+				</p>
+				<p>
+					Développement Arduino pour le triptique de sculpture "Different ways to infinity" : http://www.felixluque.com/Different-Ways-To-Infinity<br/>
+					<b>Techniques : </b><i>C++, Arduino UNO/MEGA, PWM, XBee, TLC5940.h, avr/wdt.h</i>
+				</p>
+				<p>
+					Développement Arduino pour la sculpture "Chapter 1 : The Discovery" : http://www.felixluque.com/Chapter-I-The-Discovery<br/>
+					<b>Techniques : </b><i>C++, Arduino UNO, PWM, XBee, TLC5940.h</i>
+				</p>
+			</li>
 			<li><h4>Animateur workshop Arduino - TRAKK Namur</h4>
 				<p>
 					<b>Techniques : </b><i>Processing, Arduino, électonique, découpe laser</i>
@@ -123,24 +141,6 @@
 <h3>Collaboration artistiques</h3>
 <p>
 	<ul>
-		<li><h4>Assistant technique pour l'artiste Felix Luque</h4>
-			<p>
-				Développement Raspberry et Arduino pour la sculpture "Werking Yard".<br/>
-				<b>Techniques : </b><i>info à venir</i>
-			</p>
-			<p>
-				Développement Arduino pour la sculpture "Memory Lane" : http://www.felixluque.com/Memory-Lane<br/>
-				<b>Techniques : </b><i>C++, Arduino UNO, Sepper Motor</i>
-			</p>
-			<p>
-				Développement Arduino pour le triptique de sculpture "Different ways to infinity" : http://www.felixluque.com/Different-Ways-To-Infinity<br/>
-				<b>Techniques : </b><i>C++, Arduino UNO/MEGA, PWM, XBee, TLC5940.h, avr/wdt.h</i>
-			</p>
-			<p>
-				Développement Arduino pour la sculpture "Chapter 1 : The Discovery" : http://www.felixluque.com/Chapter-I-The-Discovery<br/>
-				<b>Techniques : </b><i>C++, Arduino UNO, PWM, XBee, TLC5940.h</i>
-			</p>
-		</li>
 		<li><h4>Hacker et performeur vidéo dans le groupe Osica</h4>
 			<p>
 				Ce projet me permet de cultiver une approche de machines audio/vidéo pure-analogique en live. <br/>
