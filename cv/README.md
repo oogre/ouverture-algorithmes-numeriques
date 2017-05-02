@@ -72,7 +72,7 @@
 </p>
 <h3>Expériences professionnelles</h3>
 <p>
-	<b>2017 > 2015 : </b>
+	<b>2017 > 2011 : </b>
 		<ul>
 			<li><h4>Professeur de programmation - ESA ST Luc Bruxelles</h4>
 				<p>
@@ -84,9 +84,6 @@
 					<b>Techniques : </b><i>Créativité, RaspberryPi, Arduino, prototypage électronique</i>
 				</p>
 			</li>
-		</ul>
-	<b>2015 : </b>
-		<ul>
 			<li><h4>Animateur workshop Arduino - TRAKK Namur</h4>
 				<p>
 					<b>Techniques : </b><i>Processing, Arduino, électonique, découpe laser</i>
@@ -99,7 +96,7 @@
 			</li>
 			<li><h4>Développeur - Atelier du Froid</h4>
 				<p>
-					<b>Description : </b>Développement d'une application mobile de gestion du travail en entreprise<br/>
+					Développement d'une application mobile de gestion du travail en entreprise<br/>
 					<b>Techniques : </b><i>Meteor, Android</i>
 				</p>
 			</li>
@@ -111,13 +108,13 @@
 			</li>
 			<li><h4>Développeur d'interaction numérique - Getyoo</h4>
 				<p>
-					<b>Description : </b>En charge de la recherche et développement de kiosques interactifs.<br/>
+					En charge de la recherche et développement de kiosques interactifs.<br/>
 					<b>Techniques : </b><i>Javascript, Async patern, Ajax, Jquery.js, Processing.js, Raphael.js, Canvas, FacebookGRAPH, TwitterAPI, YoutubeAPI, VimeoAPI, Bootstrap.css, PHP, Nginx, GPhoto2, FFserver, FFmpeg, RTP, HTTPS, NFC/RFID, Arduino, Java</i>
 				</p>
 			</li>
 			<li><h4>SideKick developer - Getyoo</h4>
 				<p>
-					<b>Description : </b>Second sur la recherche et développement pour la ​création du serveur Getyoo et de son application web.<br/>
+					Second sur la recherche et développement pour la ​création du serveur Getyoo et de son application web.<br/>
 					<b>Techniques : </b><i>PHP, MySQL/MariaDB, RestfulAPI, Javascript, JWplayer, JQuery, RTP, HTTPS, Apache2, FacebookGRAPH, TwitterAPI, Highcharts.js</i>
 				</p>
 			</li>
@@ -126,13 +123,13 @@
 <h3>Collaboration artistiques</h3>
 <p>
 	<ul>
-		<li><h5>Assistant technique pour l'artiste Felix Luque</h5>
+		<li><h4>Assistant technique pour l'artiste Felix Luque</h4>
 			<p>
-				Développement Raspberry et Arduino pour la sculpture "Werking Yard".
+				Développement Raspberry et Arduino pour la sculpture "Werking Yard".<br/>
 				<b>Techniques : </b><i>info à venir</i>
 			</p>
 			<p>
-				Développement Arduino pour la sculpture "Memory Lane" : http://www.felixluque.com/Memory-Lane
+				Développement Arduino pour la sculpture "Memory Lane" : http://www.felixluque.com/Memory-Lane<br/>
 				<b>Techniques : </b><i>C++, Arduino UNO, Sepper Motor</i>
 			</p>
 			<p>
@@ -144,21 +141,17 @@
 				<b>Techniques : </b><i>C++, Arduino UNO, PWM, XBee, TLC5940.h</i>
 			</p>
 		</li>
-		<li><h5>Hacker et performeur vidéo dans le groupe Osica</h5>
+		<li><h4>Hacker et performeur vidéo dans le groupe Osica</h4>
 			<p>
-				<b>Description : </b>Ce projet me permet de cultiver une approche de machines audio/vidéo pure-analogique. <br/>
+				Ce projet me permet de cultiver une approche de machines audio/vidéo pure-analogique. <br/>
 			</p>
 		</li>
-		<li><h5>Hacker et performeur vidéo dans le collectif VHS</h5>
+		<li><h4>Hacker et performeur vidéo dans le collectif VHS</h4>
 			<p>
-				<b>Description : </b>La même approche que pour le projet Osica mais cette fois en improvisant à trois performers en même temps sur le même écran.<br/>
+				La même approche que pour le projet Osica mais cette fois en improvisant à trois performers en même temps sur le même écran.<br/>
 			</p>
 		</li>
-		<li><h5>Codeur et performeur vidéo dans le collectif Killing Screen et le collectif Union By Motion</h5>
-			<p>
-				<b>Description : </b>VJ avec des programmes de génération graphique abstraite écrits par mes soins.<br/>
-				<b>Techniques : </b><i>Processing, ENTTEC DMX usb pro, MIDI controller, Kinect, DMxp512, OPENCV, OpenGL, GLGraphics, GSVideo, ControlP5</i>
-			</p>
+		<li><h4>Codeur et performeur vidéo dans le collectif Killing Screen et le collectif Union By Motion</h4>		
 		</li>
 	</ul>
 </p>
@@ -183,6 +176,12 @@
 		<li>
 			<p>
 				<b>Lighthouses 01 : </b>Lighthouses _01 est une installation lumineuse et sonore in situ composée de verres dichroïques, de miroirs, de verre brisé, de moteurs, de lumiéres DELs et de cellules photosensibles. La première version du projet a été réalisée en collaboration avec l’artiste Alice Jarry (Ca). Coproduction Transculture & La chambre blanche. https://vimeo.com/album/3681241
+			</p>
+		</li>
+		<li>
+			<p>
+				<b>La grande ouverture du robinet du fun : </b>Un évier robot raconte des blagues auto-dé-générées. Collaboration avec "noussommesquatrevingt".
+			</p>
 		</li>
 		<li>
 			<p>
@@ -240,25 +239,6 @@
 <h3>Invitations artistiques</h3>
 <p>
 	<ul>
-		<li><h5>Osica</h5>
-			<p>
-				<b>Performance VHS : </b>
-			</p>
-		</li>
-		<li><h5>VHS</h5>
-			<p>
-				<b>Performance VHS : </b>
-			</p>
-		</li>
-		
-		<li><h5>Balaise production</h5>
-			<p>
-				<b>Performance ORAGE : </b>
-			</p>
-			<p>
-				<b>La grande ouverture du robinet du fun : </b>Un évier robot raconte des blagues auto-dé-générées. Collaboration avec "noussommesquatrevingt". 
-			</p>
-		</li>
 		<li><h5>Museo del sienza Leonardo Da Vinci</h5>
 			<p>
 				<b>Lighthouses : </b>
