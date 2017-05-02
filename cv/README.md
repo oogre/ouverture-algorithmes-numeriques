@@ -143,7 +143,7 @@
 		</li>
 		<li><h4>Hacker et performeur vidéo dans le groupe Osica</h4>
 			<p>
-				Ce projet me permet de cultiver une approche de machines audio/vidéo pure-analogique. <br/>
+				Ce projet me permet de cultiver une approche de machines audio/vidéo pure-analogique en live. <br/>
 			</p>
 		</li>
 		<li><h4>Hacker et performeur vidéo dans le collectif VHS</h4>
@@ -160,22 +160,26 @@
 	<ul>
 		<li>
 			<p>
-				<b>Piano Projeté : </b>
+				<b>Piano Projeté : </b>Piano Projeté est une performance audio visuel mettant en scène une confrontation entre musique et cinéma au travers d'un pianiste et d'un piano-droit-vidéo-projecteur. Chaque note influence l'image du film, les images du film influence le musicien improvisateur.
 			</p>
 		</li>
 		<li>
 			<p>
-				<b>Orage : </b>
+				<b>Orage : </b> Performance visuel et instrument graphique de performance audiovisuel live.
 			</p>
 		</li>
 		<li>
 			<p>
-				<b>Cul Ture : </b>
+				<b>Cul Ture : </b> Chaine Youtube proposant des mises en superposition de films documentaires avec des films pornographiques.
 			</p>
 		</li>
 		<li>
 			<p>
-				<b>Lighthouses 01 : </b>Lighthouses _01 est une installation lumineuse et sonore in situ composée de verres dichroïques, de miroirs, de verre brisé, de moteurs, de lumiéres DELs et de cellules photosensibles. La première version du projet a été réalisée en collaboration avec l’artiste Alice Jarry (Ca). Coproduction Transculture & La chambre blanche. https://vimeo.com/album/3681241
+				<b>Lighthouses 01 : </b>Lighthouses est une installation lumineuse et sonore in situ composée de verres dichroïques, de miroirs, de verre brisé, de moteurs, de lumiéres DELs et de cellules photosensibles. Elle est réalisée en collaboration avec l’artiste Alice Jarry (Ca). Coproduction Transculture & La chambre blanche. https://vimeo.com/album/3681241
+				<b>Expositions : </b> 
+				Lighthouses_03, Video Sound Art Festival, Museo Nazionale Scienza e Tecnologia Leonardo da Vinci, Milan, Italie, octobre-novembre 2016.
+				Lighthouses 02, Action Art Actuel, St-Jean sur Richelieu, Canada, septembre-octobre 2016.
+				Lighthouses 01, Transnumériques, Manège de Sury, Mons, Belgique, ocotbre-novembre 2015.
 			</p>
 		</li>
 		<li>
@@ -239,14 +243,14 @@
 <h3>Invitations artistiques</h3>
 <p>
 	<ul>
-		<li><h5>Museo del sienza Leonardo Da Vinci</h5>
+		<li><h5>Les abatoires de Bomel - Centre culturel régional (Namur)</h5>
 			<p>
-				<b>Lighthouses : </b>
+				<b>Piano Projeté</b>
 			</p>
 		</li>
-		<li><h5>Transculture / La chambre Blanche</h5>
+		<li><h5>Transculture / La chambre Blanche (Belgique - Canada) </h5>
 			<p>
-				<b>Lighthouses : </b>
+				<b>Lighthouses</b>
 			</p>
 		</li>
 		<li><h5>iMAL</h5>
