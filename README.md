@@ -28,7 +28,7 @@
 		<li>Nous utiliserons les outils open source de création et d'exploration du code.</li>
 		<li>Nous disséquerons le paysage numérique, nous déplacerons, isolerons ces parties pour en observer​ le comportement.</li>
 		<li>Nous découvrirons des langages descriptifs tels que HTML/CSS. Nous verrons que ceux-ci sont très puissants pour décrire tous les objets et leurs status à un moment donné.</li>
-		<li>Nous pourrons apprendre le PHP ou le JAVASCRIPT pour mettre en mouvement tout cela.</li>
+		<li>Nous apprendrons Javascript pour mettre en mouvement tout cela.</li>
 		<li>Nous exploiterons cette formidable boite à instructions graphiques et logiques qu'est Processing.</li>
 		<li>Si la demande existe au sein du groupe nous découvrirons Arduino, 
 			<ul>
