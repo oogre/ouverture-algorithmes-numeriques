@@ -240,18 +240,12 @@
 	</ul>
 </p>
 
-<h3>Invitations artistiques</h3>
+<h3>Invitations artistiques & résidences</h3>
 <p>
 	<ul>
-		<li><h5>Les abatoires de Bomel - Centre culturel régional (Namur)</h5>
-			<p>
-				<b>Piano Projeté</b>
-			</p>
+		<li><h5>2017 : Les abatoires de Bomel - Centre culturel régional (Namur) : <b>Piano Projeté</b></h5>
 		</li>
-		<li><h5>Transculture / La chambre Blanche (Belgique - Canada) </h5>
-			<p>
-				<b>Lighthouses</b>
-			</p>
+		<li><h5>2015 : Transculture / La chambre Blanche (Belgique - Canada) : <b>Lighthouses</b></h5>
 		</li>
 		<li><h5>iMAL</h5>
 			<p>
