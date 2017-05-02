@@ -74,48 +74,48 @@
 <p>
 	<b>2017 > 2015 : </b>
 		<ul>
-			<li><h5>Professeur de programmation - ESA ST Luc Bruxelles</h5>
+			<li><h4>Professeur de programmation - ESA ST Luc Bruxelles</h4>
 				<p>
-					<b>Techniques : </b><i>P5js, C#Unity, Processing, Javascript</i>
+					<b>Techniques : </b><i>Créativité, P5js, C#Unity, Processing, Javascript</i>
 				</p>
 			</li>
-			<li><h5>Formateur Arduino - Bruxelles Formation</h5>
+			<li><h4>Formateur Arduino - Bruxelles Formation/Proximus Fondation</h4>
 				<p>
-					<b>Techniques : </b><i>RaspberryPi, Arduino, électronique</i>
+					<b>Techniques : </b><i>Créativité, RaspberryPi, Arduino, prototypage électronique</i>
 				</p>
 			</li>
 		</ul>
 	<b>2015 : </b>
 		<ul>
-			<li><h5>Animateur workshop Arduino - TRAKK Namur</h5>
+			<li><h4>Animateur workshop Arduino - TRAKK Namur</h4>
 				<p>
 					<b>Techniques : </b><i>Processing, Arduino, électonique, découpe laser</i>
 				</p>
 			</li>
-			<li><h5>​Conférencier pour l'atelier Arts & Crafts - iMAL</h5>
+			<li><h4>​Conférencier pour l'atelier Arts & Crafts - iMAL</h4>
 				<p>
 					<b>Techniques : </b><i>Processing, Arduino, PHP</i>
 				</p>
 			</li>
-			<li><h5>Développeur - Atelier du Froid</h5>
+			<li><h4>Développeur - Atelier du Froid</h4>
 				<p>
 					<b>Description : </b>Développement d'une application mobile de gestion du travail en entreprise<br/>
 					<b>Techniques : </b><i>Meteor, Android</i>
 				</p>
 			</li>
-			<li><h5>Assistant technique - GrizzlyLab</h5>
+			<li><h4>Assistant technique - GrizzlyLab</h4>
 				<p>
 					Développement et Design de divers systèmes interactifs pour le PASS<br/>
 					<b>Techniques : </b><i>Arduino, Ultrasonic sensors, Serial, HTML/CSS, javascript, bootstrap</i>
 				</p>
 			</li>
-			<li><h5>Développeur d'interaction numérique - Getyoo</h5>
+			<li><h4>Développeur d'interaction numérique - Getyoo</h4>
 				<p>
 					<b>Description : </b>En charge de la recherche et développement de kiosques interactifs.<br/>
 					<b>Techniques : </b><i>Javascript, Async patern, Ajax, Jquery.js, Processing.js, Raphael.js, Canvas, FacebookGRAPH, TwitterAPI, YoutubeAPI, VimeoAPI, Bootstrap.css, PHP, Nginx, GPhoto2, FFserver, FFmpeg, RTP, HTTPS, NFC/RFID, Arduino, Java</i>
 				</p>
 			</li>
-			<li><h5>SideKick developer - Getyoo</h5>
+			<li><h4>SideKick developer - Getyoo</h4>
 				<p>
 					<b>Description : </b>Second sur la recherche et développement pour la ​création du serveur Getyoo et de son application web.<br/>
 					<b>Techniques : </b><i>PHP, MySQL/MariaDB, RestfulAPI, Javascript, JWplayer, JQuery, RTP, HTTPS, Apache2, FacebookGRAPH, TwitterAPI, Highcharts.js</i>
